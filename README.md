@@ -1,4 +1,4 @@
-# BRD 2: Smart Offer Modeler (A-209)
+Smart Offer Modeler
 
 A pro-code reasoning agent built with Google ADK that assists Talent Acquisition in structuring competitive job offers. Uses Gemini 2.5 Pro to enforce compensation rules and generate data-backed offer justifications.
 
@@ -26,7 +26,7 @@ gcloud config set project your-project-id
 ## Project Structure
 
 ```
-brd2/
+smart-offer-agent/
 ├── smart_offer_agent/          ← ADK module (must contain __init__.py + agent.py)
 │   ├── __init__.py
 │   ├── agent.py                ← root_agent defined here
@@ -62,7 +62,7 @@ brd2/
 ## Step 1: Install Dependencies
 
 ```bash
-cd brd2
+cd smart-offer-agent
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install google-adk google-cloud-bigquery google-cloud-aiplatform
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ## Step 2: Configure Environment
 
-Create `brd2/smart_offer_agent/.env`:
+Create `smart-offer-agent/smart_offer_agent/.env`:
 
 ```bash
 # For Vertex AI (use this for production and Agent Engine deployment)
@@ -132,17 +132,17 @@ Expected: 1,000 rows across 10 roles.
 
 ## Step 4: Run Locally with `adk web`
 
-> **Important:** Run from the `brd2/` directory (the parent of `smart_offer_agent/`). ADK discovers agent modules in the current directory.
+> **Important:** Run from the `smart-offer-agent/` directory (the parent of `smart_offer_agent/`). ADK discovers agent modules in the current directory.
 
 **Without telemetry:**
 ```bash
-cd brd2
+cd smart-offer-agent
 adk web
 ```
 
 **With telemetry (traces → Cloud Trace, logs → Cloud Logging):**
 ```bash
-cd brd2
+cd smart-offer-agent
 adk web --otel_to_cloud
 ```
 
@@ -212,7 +212,7 @@ gcloud services enable bigquery.googleapis.com --project=your-project-id
 
 ### 6c. Deploy
 
-Run from the `brd2/` directory:
+Run from the `smart-offer-agent/` directory:
 
 ```bash
 adk deploy agent_engine \
@@ -236,7 +236,7 @@ Save this ID to `scripts/agent_engine_resource.txt`.
 ## Step 7: Test the Deployed Agent
 
 ```python
-# test_deployed.py — run from brd2/ directory
+# test_deployed.py — run from smart-offer-agent/ directory
 import asyncio
 import vertexai
 
@@ -323,7 +323,7 @@ curl \
 
 | Issue | Cause | Fix |
 |---|---|---|
-| `adk web` shows no agents | Running from wrong directory | Run from `brd2/` (parent of `smart_offer_agent/`) |
+| `adk web` shows no agents | Running from wrong directory | Run from `smart-offer-agent/` (parent of `smart_offer_agent/`) |
 | BQ `403 Access Denied` | Missing IAM role | Grant `roles/bigquery.dataViewer` to your user/SA |
 | `adk deploy` fails with packaging error | Missing `__init__.py` | Ensure `smart_offer_agent/__init__.py` exists |
 | Tool returns empty dict | Role/location not in seed data | Check CSV — use exact strings e.g. `"Senior Software Engineer"`, `"Bengaluru"` |

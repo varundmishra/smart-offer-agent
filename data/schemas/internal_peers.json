@@ -1,0 +1,12 @@
+[
+  {"name": "employee_id",             "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "peer_name",               "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "role_title",              "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "location_metro",          "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "years_experience",        "type": "INTEGER", "mode": "REQUIRED"},
+  {"name": "years_at_company",        "type": "INTEGER", "mode": "REQUIRED"},
+  {"name": "base_salary",             "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "annual_bonus_target_pct", "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "performance_rating",      "type": "STRING",  "mode": "NULLABLE"},
+  {"name": "hired_date",              "type": "DATE",    "mode": "REQUIRED"}
+]

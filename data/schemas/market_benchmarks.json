@@ -1,0 +1,13 @@
+[
+  {"name": "benchmark_id",    "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "role_title",      "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "location_metro",  "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "p25_base",        "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "p50_base",        "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "p75_base",        "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "p90_base",        "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "p50_total_cash",  "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "p75_total_cash",  "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "source",          "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "effective_date",  "type": "DATE",    "mode": "REQUIRED"}
+]

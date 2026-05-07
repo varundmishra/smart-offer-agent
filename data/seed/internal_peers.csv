@@ -1,0 +1,1001 @@
+employee_id,peer_name,role_title,location_metro,years_experience,years_at_company,base_salary,annual_bonus_target_pct,performance_rating,hired_date
+EMP-2000,Divya Vyas,Senior Software Engineer,Bengaluru,6,6,3230000,0.15,Meets,2018-10-14
+EMP-2001,Parth Vyas,Software Engineer,Bengaluru,2,1,1530000,0.1,Exceeds,2023-04-15
+EMP-2002,Dinesh Dey,Senior Data Scientist,Delhi NCR,7,6,6170000,0.18,Meets,2021-03-07
+EMP-2003,Kartik Mehta,Senior Product Manager,Mumbai,13,5,6870000,0.2,Exceeds,2024-09-04
+EMP-2004,Madhuri Reddy,UX Designer,Mumbai,13,4,2160000,0.1,Meets,2017-11-08
+EMP-2005,Lalitha Chakraborty,Product Manager,Mumbai,14,5,2870000,0.15,Below,2019-06-12
+EMP-2006,Ramesh Hegde,Principal Engineer,Delhi NCR,4,2,15390000,0.25,Meets,2019-08-13
+EMP-2007,Rohit Gupta,Product Manager,Pune,3,1,2790000,0.15,Meets,2022-07-09
+EMP-2008,Akash Tandon,Senior Software Engineer,Pune,12,4,2760000,0.15,Below,2023-11-15
+EMP-2009,Tanya Venkatesh,Staff Software Engineer,Delhi NCR,10,7,8890000,0.2,Exceeds,2022-04-05
+EMP-2010,Vidya Malhotra,Data Scientist,Gurugram,5,2,2820000,0.12,Exceeds,2023-10-03
+EMP-2011,Kunal Agarwal,UX Designer,Noida,10,1,1710000,0.1,Meets,2021-11-11
+EMP-2012,Revathi Rao,Senior Software Engineer,Delhi NCR,10,3,3450000,0.15,Meets,2021-11-17
+EMP-2013,Kavya Roy,Senior Data Scientist,Pune,18,1,6870000,0.18,Exceeds,2024-01-04
+EMP-2014,Chirag Mathur,Senior Product Manager,Delhi NCR,4,1,6840000,0.2,Exceeds,2018-09-25
+EMP-2015,Uma Murthy,Staff Software Engineer,Hyderabad,7,3,7550000,0.2,Meets,2020-09-25
+EMP-2016,Harsh Tiwary,Principal Engineer,Delhi NCR,13,8,15360000,0.25,Meets,2024-02-08
+EMP-2017,Arjun Iyer,Principal Engineer,Mumbai,9,4,15580000,0.25,Meets,2017-04-03
+EMP-2018,Shanthi Das,Software Engineer,Chennai,17,4,1380000,0.1,Exceeds,2024-04-26
+EMP-2019,Dinesh Balakrishnan,Senior UX Designer,Noida,15,6,3720000,0.15,Exceeds,2024-12-02
+EMP-2020,Sanjay Mishra,Senior Software Engineer,Bengaluru,5,2,3280000,0.15,Meets,2024-03-14
+EMP-2021,Kartik Raval,Staff Software Engineer,Delhi NCR,4,4,8260000,0.2,Meets,2018-01-21
+EMP-2022,Tushar Mathur,Data Scientist,Bengaluru,9,3,2550000,0.12,Below,2024-04-28
+EMP-2023,Neha Awasthi,UX Designer,Bengaluru,14,5,1960000,0.1,Exceeds,2021-07-23
+EMP-2024,Hema Vyas,Data Scientist,Gurugram,3,3,2940000,0.12,Exceeds,2017-12-11
+EMP-2025,Kavitha Yadav,Software Engineer,Bengaluru,18,3,1450000,0.1,Meets,2018-03-03
+EMP-2026,Rekha Mehta,Senior Data Scientist,Mumbai,5,5,6630000,0.18,Meets,2018-07-22
+EMP-2027,Geeta Sundaram,Senior Data Scientist,Chennai,12,4,5050000,0.18,Below,2019-11-21
+EMP-2028,Lalitha Modi,Product Manager,Gurugram,4,1,3080000,0.15,Meets,2018-02-18
+EMP-2029,Jyoti Kulkarni,Principal Engineer,Delhi NCR,4,2,16060000,0.25,Exceeds,2019-08-27
+EMP-2030,Tarun Raval,Data Scientist,Delhi NCR,18,1,3020000,0.12,Meets,2021-11-04
+EMP-2031,Prakash Tiwari,Staff Software Engineer,Delhi NCR,6,3,8020000,0.2,Exceeds,2022-04-22
+EMP-2032,Siddharth Murthy,Product Manager,Gurugram,3,1,3170000,0.15,Meets,2021-01-01
+EMP-2033,Vijaya Patel,Senior Product Manager,Hyderabad,16,7,5590000,0.2,Meets,2018-02-23
+EMP-2034,Aditya Mehta,Staff Software Engineer,Bengaluru,6,4,7640000,0.2,Meets,2021-06-26
+EMP-2035,Dhruv Thakkar,Software Engineer,Chennai,5,3,1380000,0.1,Exceeds,2023-10-24
+EMP-2036,Ananya Khanna,Staff Software Engineer,Pune,7,4,6510000,0.2,Below,2022-07-26
+EMP-2037,Ayush Bajpai,Principal Engineer,Delhi NCR,14,1,16980000,0.25,Exceeds,2020-04-27
+EMP-2038,Ananya Mishra,Senior UX Designer,Chennai,9,4,3840000,0.15,Meets,2023-06-09
+EMP-2039,Rohan Kamath,Senior Software Engineer,Delhi NCR,12,1,3480000,0.15,Meets,2019-10-09
+EMP-2040,Pranav Yadav,Software Engineer,Mumbai,12,7,1490000,0.1,Meets,2018-07-19
+EMP-2041,Rajan Saxena,Principal Engineer,Delhi NCR,18,4,16290000,0.25,Exceeds,2018-11-11
+EMP-2042,Tarun Balakrishnan,Senior Data Scientist,Chennai,11,5,5520000,0.18,Meets,2022-07-23
+EMP-2043,Shruthi Modi,Product Manager,Hyderabad,14,3,3050000,0.15,Exceeds,2021-07-18
+EMP-2044,Chandra Sinha,Software Engineer,Delhi NCR,12,8,1470000,0.1,Meets,2020-09-16
+EMP-2045,Isha Gowda,Staff Software Engineer,Mumbai,12,2,8210000,0.2,Meets,2021-04-26
+EMP-2046,Lalitha Rangan,Principal Engineer,Hyderabad,17,2,14250000,0.25,Exceeds,2020-12-23
+EMP-2047,Dhruv Murthy,UX Designer,Gurugram,2,1,1850000,0.1,Meets,2020-03-26
+EMP-2048,Nisha Dixit,Data Scientist,Gurugram,5,4,2920000,0.12,Exceeds,2022-08-20
+EMP-2049,Komal Bajpai,Data Scientist,Noida,7,6,2430000,0.12,Meets,2024-05-25
+EMP-2050,Chandra Iyer,Principal Engineer,Delhi NCR,9,5,14970000,0.25,Meets,2021-04-09
+EMP-2051,Kamala Shah,Senior Product Manager,Chennai,6,2,4740000,0.2,Below,2020-02-14
+EMP-2052,Kamala Kumar,UX Designer,Chennai,8,7,1710000,0.1,Meets,2023-08-01
+EMP-2053,Nandini Srivastava,Senior Product Manager,Delhi NCR,15,4,6860000,0.2,Meets,2021-07-16
+EMP-2054,Shubham Dixit,Software Engineer,Noida,14,3,1330000,0.1,Meets,2019-10-18
+EMP-2055,Nisha Dixit,Software Engineer,Noida,4,4,1330000,0.1,Meets,2019-01-09
+EMP-2056,Pallavi Rangan,UX Designer,Chennai,14,5,1860000,0.1,Exceeds,2021-02-16
+EMP-2057,Pallavi Singh,Software Engineer,Bengaluru,4,1,1260000,0.1,Below,2020-04-27
+EMP-2058,Asha Dixit,Software Engineer,Hyderabad,5,5,1480000,0.1,Exceeds,2021-06-06
+EMP-2059,Subramanian Singh,Senior Data Scientist,Mumbai,11,2,6540000,0.18,Meets,2021-10-22
+EMP-2060,Jayesh Shukla,UX Designer,Noida,9,2,1470000,0.1,Below,2018-10-26
+EMP-2061,Priya Rangan,Software Engineer,Chennai,4,3,1340000,0.1,Meets,2024-02-14
+EMP-2062,Shruthi Trivedi,Senior Product Manager,Gurugram,18,5,6330000,0.2,Meets,2024-08-14
+EMP-2063,Riya Tripathi,Senior Data Scientist,Delhi NCR,4,3,6460000,0.18,Meets,2020-08-19
+EMP-2064,Nandini Dubey,Senior Data Scientist,Noida,12,3,5830000,0.18,Meets,2022-05-11
+EMP-2065,Gaurav Balakrishnan,Product Manager,Delhi NCR,8,2,2990000,0.15,Meets,2024-09-25
+EMP-2066,Usha Srivastava,Principal Engineer,Gurugram,2,1,14740000,0.25,Meets,2023-12-08
+EMP-2067,Smita Awasthi,Product Manager,Chennai,15,6,2620000,0.15,Meets,2021-05-09
+EMP-2068,Asha Rastogi,Principal Engineer,Mumbai,7,2,14840000,0.25,Meets,2021-12-19
+EMP-2069,Rajan Khanna,Data Scientist,Delhi NCR,11,4,2600000,0.12,Below,2021-01-23
+EMP-2070,Siddharth Mathur,Data Scientist,Hyderabad,11,3,2720000,0.12,Meets,2018-01-19
+EMP-2071,Komal Rastogi,Product Manager,Gurugram,3,2,2870000,0.15,Meets,2018-02-13
+EMP-2072,Kartik Modi,Senior UX Designer,Mumbai,6,2,4440000,0.15,Meets,2021-02-08
+EMP-2073,Venkat Sinha,Senior Software Engineer,Noida,9,7,3160000,0.15,Meets,2021-10-14
+EMP-2074,Geeta Pillai,Product Manager,Bengaluru,8,4,3020000,0.15,Meets,2019-04-06
+EMP-2075,Vikram Naidu,Data Scientist,Mumbai,17,5,3110000,0.12,Exceeds,2021-12-10
+EMP-2076,Rohan Vyas,Senior UX Designer,Mumbai,8,7,4620000,0.15,Meets,2020-11-05
+EMP-2077,Chandra Bose,Product Manager,Hyderabad,11,5,2810000,0.15,Exceeds,2024-12-10
+EMP-2078,Karan Saxena,UX Designer,Delhi NCR,4,1,1990000,0.1,Meets,2022-10-09
+EMP-2079,Indira Mehta,Software Engineer,Mumbai,2,2,1740000,0.1,Exceeds,2019-08-17
+EMP-2080,Saritha Mitra,Senior UX Designer,Delhi NCR,17,2,4670000,0.15,Exceeds,2023-06-11
+EMP-2081,Isha Raval,Senior Software Engineer,Hyderabad,11,7,3250000,0.15,Meets,2017-08-03
+EMP-2082,Bhavana Vyas,Senior Product Manager,Delhi NCR,14,1,7000000,0.2,Meets,2024-07-02
+EMP-2083,Mahesh Bhat,Principal Engineer,Chennai,16,1,13020000,0.25,Meets,2019-05-15
+EMP-2084,Anjali Raval,Senior UX Designer,Mumbai,9,3,4840000,0.15,Exceeds,2017-09-14
+EMP-2085,Aparna Shah,Senior Software Engineer,Pune,16,2,2900000,0.15,Below,2024-12-10
+EMP-2086,Lalitha Raval,Data Scientist,Delhi NCR,17,4,2770000,0.12,Meets,2019-07-07
+EMP-2087,Neha Choudhary,Senior Data Scientist,Hyderabad,15,6,5270000,0.18,Below,2021-01-10
+EMP-2088,Vivek Raval,Product Manager,Gurugram,17,6,2610000,0.15,Below,2023-08-11
+EMP-2089,Sachin Bajpai,Principal Engineer,Pune,15,1,12550000,0.25,Meets,2023-07-22
+EMP-2090,Manan Sinha,Staff Software Engineer,Gurugram,12,2,6490000,0.2,Below,2018-09-15
+EMP-2091,Saritha Kamath,Software Engineer,Hyderabad,6,1,1380000,0.1,Meets,2022-10-23
+EMP-2092,Vidya Mathur,UX Designer,Mumbai,14,6,1910000,0.1,Below,2017-10-03
+EMP-2093,Yash Krishnan,Principal Engineer,Delhi NCR,15,2,13740000,0.25,Below,2024-03-23
+EMP-2094,Jyoti Saxena,Product Manager,Bengaluru,11,6,3350000,0.15,Exceeds,2019-04-17
+EMP-2095,Krishnan Mukherjee,UX Designer,Hyderabad,14,4,1850000,0.1,Exceeds,2020-08-21
+EMP-2096,Rashmi Vyas,Product Manager,Gurugram,16,5,2700000,0.15,Meets,2019-02-15
+EMP-2097,Payal Shukla,Senior Product Manager,Delhi NCR,10,8,6370000,0.2,Meets,2020-07-28
+EMP-2098,Rahul Sundaram,Senior UX Designer,Mumbai,11,5,4800000,0.15,Exceeds,2021-01-19
+EMP-2099,Ravi Mishra,Software Engineer,Gurugram,9,6,1580000,0.1,Meets,2021-11-25
+EMP-2100,Vikram Chakraborty,Staff Software Engineer,Mumbai,11,8,7260000,0.2,Below,2019-02-10
+EMP-2101,Ritika Kapoor,Senior Product Manager,Noida,13,5,5800000,0.2,Exceeds,2021-08-26
+EMP-2102,Pallavi Srivastava,Product Manager,Chennai,4,2,2590000,0.15,Meets,2023-09-12
+EMP-2103,Rashmi Kamath,Senior Software Engineer,Noida,16,6,3340000,0.15,Exceeds,2023-11-12
+EMP-2104,Aparna Reddy,Senior Software Engineer,Pune,12,4,3140000,0.15,Meets,2024-12-10
+EMP-2105,Rohan Krishnan,UX Designer,Mumbai,11,8,2420000,0.1,Exceeds,2020-09-05
+EMP-2106,Karan Rangan,UX Designer,Gurugram,15,3,2120000,0.1,Meets,2018-08-20
+EMP-2107,Gaurav Chakraborty,UX Designer,Delhi NCR,16,8,2150000,0.1,Exceeds,2018-11-12
+EMP-2108,Pooja Dubey,Data Scientist,Chennai,5,4,2590000,0.12,Exceeds,2017-01-26
+EMP-2109,Ritika Raval,Senior Product Manager,Pune,8,2,5290000,0.2,Below,2020-10-07
+EMP-2110,Ayush Mukherjee,Principal Engineer,Chennai,2,2,13690000,0.25,Meets,2019-09-09
+EMP-2111,Samir Gowda,Staff Software Engineer,Mumbai,2,2,7310000,0.2,Meets,2022-01-06
+EMP-2112,Saritha Tripathi,Product Manager,Bengaluru,5,1,3150000,0.15,Exceeds,2022-09-19
+EMP-2113,Neha Tiwary,Senior Software Engineer,Gurugram,3,3,3720000,0.15,Meets,2021-08-21
+EMP-2114,Nandini Sinha,Software Engineer,Bengaluru,15,2,1350000,0.1,Below,2018-02-11
+EMP-2115,Kavya Bhatt,Senior Data Scientist,Hyderabad,12,7,6490000,0.18,Exceeds,2021-08-17
+EMP-2116,Venkat Naidu,Senior Data Scientist,Noida,8,7,6650000,0.18,Exceeds,2023-06-27
+EMP-2117,Tarun Shetty,Senior UX Designer,Noida,15,6,3350000,0.15,Meets,2022-03-22
+EMP-2118,Mihir Basu,Senior UX Designer,Mumbai,15,2,4430000,0.15,Exceeds,2019-09-02
+EMP-2119,Prakash Chandra,Senior Data Scientist,Chennai,15,1,5810000,0.18,Meets,2022-02-19
+EMP-2120,Payal Thakkar,Data Scientist,Pune,5,3,2710000,0.12,Exceeds,2022-02-25
+EMP-2121,Ananya Verma,Product Manager,Pune,2,2,2790000,0.15,Meets,2021-12-25
+EMP-2122,Bhavana Venkatesh,Product Manager,Chennai,6,5,2460000,0.15,Meets,2018-03-24
+EMP-2123,Padma Malhotra,Software Engineer,Mumbai,15,8,1460000,0.1,Meets,2022-05-24
+EMP-2124,Karthik Bhat,Senior Product Manager,Mumbai,3,3,5640000,0.2,Below,2024-11-14
+EMP-2125,Ashish Saxena,Senior UX Designer,Gurugram,18,2,3930000,0.15,Meets,2018-05-22
+EMP-2126,Kavya Nair,Senior Data Scientist,Gurugram,9,7,6470000,0.18,Meets,2017-04-10
+EMP-2127,Krishnan Saxena,Principal Engineer,Hyderabad,5,1,12960000,0.25,Meets,2019-03-13
+EMP-2128,Girish Mehta,Data Scientist,Pune,13,2,2600000,0.12,Meets,2023-01-15
+EMP-2129,Rohan Venkatesh,Senior Software Engineer,Chennai,15,5,3080000,0.15,Meets,2017-06-06
+EMP-2130,Payal Rao,Senior Data Scientist,Gurugram,4,4,7190000,0.18,Meets,2020-07-19
+EMP-2131,Vivek Kapoor,UX Designer,Mumbai,12,4,1980000,0.1,Meets,2018-09-21
+EMP-2132,Divya Mukherjee,Senior Software Engineer,Pune,6,2,2680000,0.15,Below,2021-04-06
+EMP-2133,Vidya Tandon,Senior Data Scientist,Hyderabad,7,7,6270000,0.18,Meets,2024-10-25
+EMP-2134,Lakshmi Sinha,Senior Data Scientist,Gurugram,12,6,7140000,0.18,Meets,2018-08-15
+EMP-2135,Sunil Tripathi,Product Manager,Delhi NCR,4,3,2900000,0.15,Meets,2017-01-12
+EMP-2136,Sunil Raval,Product Manager,Mumbai,4,4,3330000,0.15,Meets,2017-08-26
+EMP-2137,Venkat Rao,Senior Data Scientist,Pune,6,1,5950000,0.18,Meets,2022-12-03
+EMP-2138,Rajan Basu,Data Scientist,Hyderabad,16,3,2870000,0.12,Exceeds,2021-07-14
+EMP-2139,Nikhil Thakkar,Senior Product Manager,Bengaluru,4,3,6440000,0.2,Meets,2023-05-09
+EMP-2140,Anjali Sundaram,Senior Data Scientist,Hyderabad,6,3,6190000,0.18,Meets,2019-10-23
+EMP-2141,Tarun Bhatt,Senior Software Engineer,Delhi NCR,12,3,3570000,0.15,Meets,2018-11-22
+EMP-2142,Shruti Mathur,UX Designer,Chennai,8,6,1860000,0.1,Exceeds,2020-04-05
+EMP-2143,Bhavana Dey,Staff Software Engineer,Mumbai,18,1,8380000,0.2,Meets,2019-10-13
+EMP-2144,Chandra Mehta,Staff Software Engineer,Hyderabad,7,6,7960000,0.2,Exceeds,2023-06-22
+EMP-2145,Ramesh Gowda,Principal Engineer,Gurugram,16,4,15420000,0.25,Meets,2021-08-27
+EMP-2146,Shruti Kulkarni,Principal Engineer,Chennai,16,8,13190000,0.25,Meets,2023-09-17
+EMP-2147,Suresh Rastogi,UX Designer,Hyderabad,6,3,1890000,0.1,Meets,2022-09-04
+EMP-2148,Harsh Yadav,Data Scientist,Mumbai,10,8,3000000,0.12,Meets,2019-07-03
+EMP-2149,Girish Choudhary,Principal Engineer,Gurugram,15,1,13950000,0.25,Below,2022-04-13
+EMP-2150,Samir Mukherjee,Senior Software Engineer,Chennai,5,3,3260000,0.15,Exceeds,2019-01-10
+EMP-2151,Rahul Shetty,Senior UX Designer,Hyderabad,2,1,3750000,0.15,Meets,2020-03-18
+EMP-2152,Suresh Gowda,Senior Data Scientist,Noida,11,2,6230000,0.18,Exceeds,2023-11-26
+EMP-2153,Vidya Yadav,Senior Data Scientist,Gurugram,17,1,7780000,0.18,Exceeds,2020-12-05
+EMP-2154,Tarun Pillai,Product Manager,Noida,15,3,2780000,0.15,Exceeds,2022-02-17
+EMP-2155,Varun Kumar,Data Scientist,Bengaluru,14,6,2690000,0.12,Meets,2022-02-12
+EMP-2156,Deepa Biswas,Principal Engineer,Mumbai,12,3,15980000,0.25,Meets,2022-11-06
+EMP-2157,Vikram Desai,Senior UX Designer,Gurugram,4,4,4360000,0.15,Meets,2020-01-26
+EMP-2158,Varun Gupta,Principal Engineer,Bengaluru,14,8,13990000,0.25,Meets,2020-05-12
+EMP-2159,Mihir Sinha,Software Engineer,Chennai,15,7,1370000,0.1,Meets,2023-06-06
+EMP-2160,Chirag Murthy,Senior UX Designer,Gurugram,10,2,4350000,0.15,Meets,2018-07-20
+EMP-2161,Venkat Murthy,Staff Software Engineer,Delhi NCR,11,5,7180000,0.2,Meets,2019-12-15
+EMP-2162,Radha Nair,Senior Product Manager,Gurugram,13,7,7480000,0.2,Exceeds,2018-11-21
+EMP-2163,Rajesh Sinha,UX Designer,Chennai,7,1,1810000,0.1,Meets,2017-03-03
+EMP-2164,Lakshmi Tripathi,Principal Engineer,Chennai,3,3,14060000,0.25,Meets,2022-06-15
+EMP-2165,Rohan Singh,Senior Software Engineer,Hyderabad,10,4,3080000,0.15,Meets,2019-08-17
+EMP-2166,Shruthi Kulkarni,UX Designer,Mumbai,16,4,1960000,0.1,Meets,2024-04-04
+EMP-2167,Kartik Banerjee,Staff Software Engineer,Mumbai,16,2,8540000,0.2,Meets,2022-12-03
+EMP-2168,Rajan Yadav,Data Scientist,Delhi NCR,7,7,2600000,0.12,Below,2020-02-07
+EMP-2169,Tanvi Raval,Staff Software Engineer,Pune,13,8,6280000,0.2,Meets,2019-10-03
+EMP-2170,Shruti Balakrishnan,Senior Software Engineer,Delhi NCR,17,7,3610000,0.15,Meets,2018-03-11
+EMP-2171,Siddharth Verma,Senior Software Engineer,Gurugram,6,5,3460000,0.15,Meets,2019-07-17
+EMP-2172,Madhuri Srivastava,Software Engineer,Mumbai,7,3,1480000,0.1,Meets,2022-09-10
+EMP-2173,Vidya Shukla,Senior Software Engineer,Delhi NCR,10,3,4120000,0.15,Exceeds,2018-09-21
+EMP-2174,Rohit Singh,Staff Software Engineer,Hyderabad,12,1,7880000,0.2,Exceeds,2018-01-21
+EMP-2175,Krishnan Vyas,Senior Data Scientist,Delhi NCR,15,1,7080000,0.18,Meets,2021-11-10
+EMP-2176,Meera Nair,Senior UX Designer,Pune,11,8,3810000,0.15,Meets,2019-08-14
+EMP-2177,Chirag Mitra,Senior UX Designer,Gurugram,12,6,4640000,0.15,Exceeds,2023-03-25
+EMP-2178,Rekha Mukherjee,Senior Product Manager,Mumbai,10,8,6610000,0.2,Meets,2018-01-10
+EMP-2179,Vandana Banerjee,UX Designer,Noida,7,7,2010000,0.1,Exceeds,2020-03-16
+EMP-2180,Girish Choudhary,Data Scientist,Gurugram,2,1,2660000,0.12,Meets,2024-04-07
+EMP-2181,Ramesh Patel,Senior Data Scientist,Chennai,17,5,6290000,0.18,Exceeds,2018-07-05
+EMP-2182,Murali Thakkar,Product Manager,Chennai,14,1,2540000,0.15,Meets,2020-06-18
+EMP-2183,Aditya Krishnan,Product Manager,Mumbai,10,2,3040000,0.15,Meets,2023-06-26
+EMP-2184,Revathi Mehta,Senior Product Manager,Chennai,18,7,5350000,0.2,Meets,2017-01-05
+EMP-2185,Vandana Banerjee,Senior Product Manager,Gurugram,18,3,6000000,0.2,Meets,2019-07-20
+EMP-2186,Saritha Kumar,Product Manager,Chennai,17,5,2610000,0.15,Meets,2022-06-22
+EMP-2187,Geeta Naidu,Senior Software Engineer,Noida,2,2,3160000,0.15,Meets,2017-10-16
+EMP-2188,Jayesh Agarwal,Staff Software Engineer,Noida,3,3,7610000,0.2,Exceeds,2020-01-15
+EMP-2189,Manan Nair,Senior Product Manager,Noida,15,8,6350000,0.2,Exceeds,2019-09-07
+EMP-2190,Vishal Awasthi,Data Scientist,Chennai,14,6,2160000,0.12,Below,2022-09-12
+EMP-2191,Naveen Kulkarni,Product Manager,Gurugram,11,4,3130000,0.15,Exceeds,2020-12-23
+EMP-2192,Sneha Vyas,Senior UX Designer,Chennai,10,5,3690000,0.15,Meets,2023-07-27
+EMP-2193,Chandra Shetty,Senior Product Manager,Hyderabad,4,3,5620000,0.2,Meets,2024-04-07
+EMP-2194,Shruthi Gowda,Data Scientist,Delhi NCR,6,1,2550000,0.12,Below,2020-01-22
+EMP-2195,Parth Bajpai,Data Scientist,Pune,15,6,2260000,0.12,Meets,2018-11-25
+EMP-2196,Akash Bajpai,Staff Software Engineer,Bengaluru,7,4,7160000,0.2,Below,2024-11-07
+EMP-2197,Ramesh Gupta,Product Manager,Chennai,4,2,2400000,0.15,Meets,2019-07-27
+EMP-2198,Mihir Desai,Staff Software Engineer,Bengaluru,17,3,6610000,0.2,Below,2017-01-10
+EMP-2199,Karan Ghosh,Senior Data Scientist,Mumbai,16,8,6060000,0.18,Below,2024-05-07
+EMP-2200,Priya Dey,Senior Software Engineer,Chennai,10,3,3330000,0.15,Exceeds,2021-10-22
+EMP-2201,Bala Roy,Principal Engineer,Hyderabad,14,7,13790000,0.25,Meets,2018-07-22
+EMP-2202,Geeta Subramanian,Senior Software Engineer,Hyderabad,9,1,2790000,0.15,Below,2020-08-25
+EMP-2203,Akash Chakraborty,Product Manager,Chennai,2,2,2710000,0.15,Meets,2020-01-22
+EMP-2204,Archana Bose,Senior Software Engineer,Gurugram,18,5,3390000,0.15,Meets,2021-06-20
+EMP-2205,Bhavna Raval,Principal Engineer,Pune,16,6,11700000,0.25,Below,2024-09-26
+EMP-2206,Uma Chakraborty,Principal Engineer,Pune,4,4,13390000,0.25,Meets,2018-10-04
+EMP-2207,Rohan Tiwari,Software Engineer,Pune,12,8,1240000,0.1,Meets,2024-02-17
+EMP-2208,Vijaya Dixit,Senior UX Designer,Bengaluru,16,1,4060000,0.15,Meets,2021-12-01
+EMP-2209,Dinesh Mitra,UX Designer,Delhi NCR,4,1,2070000,0.1,Meets,2018-09-02
+EMP-2210,Chirag Rangan,Senior Software Engineer,Gurugram,6,6,3750000,0.15,Exceeds,2022-07-15
+EMP-2211,Komal Mitra,UX Designer,Noida,6,6,2040000,0.1,Exceeds,2018-03-18
+EMP-2212,Naveen Dixit,UX Designer,Hyderabad,2,1,1710000,0.1,Meets,2023-09-13
+EMP-2213,Vikram Rangan,Principal Engineer,Pune,8,2,12370000,0.25,Meets,2017-04-07
+EMP-2214,Hema Mehta,Senior Software Engineer,Mumbai,3,1,3550000,0.15,Meets,2023-08-08
+EMP-2215,Usha Naidu,Data Scientist,Pune,6,5,2580000,0.12,Meets,2022-10-20
+EMP-2216,Tushar Shukla,Senior Product Manager,Pune,18,4,5350000,0.2,Meets,2021-01-18
+EMP-2217,Ashish Narayanan,Senior Data Scientist,Hyderabad,17,1,6020000,0.18,Meets,2022-12-14
+EMP-2218,Payal Srivastava,UX Designer,Hyderabad,17,4,1690000,0.1,Meets,2021-12-05
+EMP-2219,Kamala Hegde,Senior UX Designer,Bengaluru,18,3,4390000,0.15,Meets,2021-04-11
+EMP-2220,Manish Narayanan,Senior Software Engineer,Gurugram,8,1,3200000,0.15,Meets,2017-02-07
+EMP-2221,Priya Dubey,Senior Data Scientist,Pune,12,5,6360000,0.18,Meets,2020-12-04
+EMP-2222,Gopal Roy,Senior UX Designer,Pune,14,4,3820000,0.15,Meets,2021-07-15
+EMP-2223,Nikhil Bajpai,Data Scientist,Chennai,17,8,2370000,0.12,Meets,2022-04-12
+EMP-2224,Geeta Raval,Senior Product Manager,Noida,6,1,6520000,0.2,Exceeds,2023-05-05
+EMP-2225,Gopal Dey,Principal Engineer,Chennai,9,8,14540000,0.25,Exceeds,2021-08-24
+EMP-2226,Rupal Vyas,Senior UX Designer,Gurugram,7,2,4780000,0.15,Exceeds,2024-03-18
+EMP-2227,Tushar Ghosh,Software Engineer,Bengaluru,3,1,1340000,0.1,Meets,2020-02-23
+EMP-2228,Siddharth Rastogi,Staff Software Engineer,Bengaluru,3,3,8250000,0.2,Exceeds,2024-01-01
+EMP-2229,Rahul Choudhary,Data Scientist,Noida,10,5,2670000,0.12,Exceeds,2023-03-04
+EMP-2230,Manish Sundaram,Senior Software Engineer,Hyderabad,10,6,3530000,0.15,Exceeds,2018-06-13
+EMP-2231,Pooja Venkatesh,Senior UX Designer,Pune,4,1,3160000,0.15,Below,2023-07-18
+EMP-2232,Payal Saxena,Senior UX Designer,Bengaluru,4,4,4200000,0.15,Meets,2022-10-28
+EMP-2233,Deepa Iyer,Senior Software Engineer,Bengaluru,17,5,3970000,0.15,Exceeds,2021-09-19
+EMP-2234,Pallavi Sundaram,Software Engineer,Hyderabad,8,3,1170000,0.1,Below,2018-05-06
+EMP-2235,Pallavi Ghosh,Senior Data Scientist,Pune,12,7,6340000,0.18,Meets,2018-09-24
+EMP-2236,Pranav Sundaram,Senior Product Manager,Bengaluru,4,3,6630000,0.2,Exceeds,2022-01-21
+EMP-2237,Preeti Narayanan,Product Manager,Gurugram,14,7,2880000,0.15,Meets,2018-10-10
+EMP-2238,Kamala Banerjee,Principal Engineer,Mumbai,6,6,16000000,0.25,Exceeds,2022-02-03
+EMP-2239,Pooja Verma,Software Engineer,Delhi NCR,5,2,1560000,0.1,Meets,2023-08-18
+EMP-2240,Komal Subramanian,Data Scientist,Noida,4,3,2480000,0.12,Exceeds,2017-05-14
+EMP-2241,Kunal Narayanan,UX Designer,Mumbai,9,3,2070000,0.1,Meets,2019-03-09
+EMP-2242,Bhavna Shukla,Product Manager,Delhi NCR,15,5,2750000,0.15,Meets,2024-02-12
+EMP-2243,Divya Ghosh,Product Manager,Pune,8,8,2630000,0.15,Meets,2021-01-13
+EMP-2244,Isha Ghosh,Senior Product Manager,Noida,12,7,5410000,0.2,Meets,2021-06-20
+EMP-2245,Hema Mathur,Principal Engineer,Gurugram,12,5,15970000,0.25,Meets,2020-06-13
+EMP-2246,Kunal Raval,Product Manager,Noida,8,3,2770000,0.15,Meets,2017-12-15
+EMP-2247,Rashmi Tandon,Principal Engineer,Gurugram,4,4,15630000,0.25,Meets,2019-11-10
+EMP-2248,Venkat Rastogi,Principal Engineer,Delhi NCR,14,2,15470000,0.25,Meets,2023-09-17
+EMP-2249,Shruti Hegde,UX Designer,Bengaluru,4,1,1880000,0.1,Meets,2022-03-21
+EMP-2250,Samir Saxena,Senior Data Scientist,Bengaluru,14,6,6730000,0.18,Meets,2018-01-04
+EMP-2251,Jyoti Sundaram,Product Manager,Pune,9,8,2640000,0.15,Meets,2024-11-19
+EMP-2252,Bhavna Pillai,Data Scientist,Hyderabad,5,3,2300000,0.12,Meets,2018-12-05
+EMP-2253,Ashish Bajpai,Senior Product Manager,Delhi NCR,18,8,6780000,0.2,Meets,2018-08-24
+EMP-2254,Payal Dey,Senior UX Designer,Chennai,5,1,3730000,0.15,Exceeds,2018-11-26
+EMP-2255,Sunil Naidu,Staff Software Engineer,Pune,12,7,6910000,0.2,Meets,2023-11-06
+EMP-2256,Tejas Murthy,Staff Software Engineer,Noida,8,8,6980000,0.2,Meets,2023-01-23
+EMP-2257,Tanvi Trivedi,Principal Engineer,Pune,4,1,13650000,0.25,Meets,2019-06-11
+EMP-2258,Kavya Subramanian,Principal Engineer,Gurugram,17,6,16740000,0.25,Exceeds,2023-10-04
+EMP-2259,Rashmi Ghosh,Senior Product Manager,Chennai,11,2,5760000,0.2,Meets,2022-02-08
+EMP-2260,Bhavna Ghosh,Product Manager,Mumbai,18,7,3490000,0.15,Exceeds,2023-07-06
+EMP-2261,Sachin Tripathi,Senior UX Designer,Hyderabad,6,2,3760000,0.15,Meets,2017-06-01
+EMP-2262,Tushar Mathur,Senior UX Designer,Hyderabad,18,8,4080000,0.15,Exceeds,2023-12-27
+EMP-2263,Vikram Pai,Senior UX Designer,Gurugram,9,5,4610000,0.15,Exceeds,2020-09-10
+EMP-2264,Indira Agarwal,Staff Software Engineer,Gurugram,17,2,8050000,0.2,Meets,2021-09-27
+EMP-2265,Divya Hegde,Senior Product Manager,Bengaluru,8,7,6210000,0.2,Meets,2021-01-15
+EMP-2266,Mahesh Mitra,Product Manager,Chennai,5,2,2190000,0.15,Below,2023-03-20
+EMP-2267,Kavya Trivedi,Staff Software Engineer,Pune,13,5,7220000,0.2,Meets,2019-06-23
+EMP-2268,Nisha Balakrishnan,Product Manager,Delhi NCR,18,2,3220000,0.15,Meets,2017-05-28
+EMP-2269,Nandini Mukherjee,Staff Software Engineer,Hyderabad,9,7,7990000,0.2,Exceeds,2021-11-14
+EMP-2270,Bala Pai,UX Designer,Gurugram,4,4,2270000,0.1,Exceeds,2022-08-16
+EMP-2271,Siddharth Biswas,Senior Product Manager,Bengaluru,4,4,5860000,0.2,Below,2018-09-13
+EMP-2272,Padma Raval,Principal Engineer,Noida,12,5,12870000,0.25,Meets,2019-10-28
+EMP-2273,Vidya Awasthi,Senior UX Designer,Chennai,3,1,3370000,0.15,Below,2017-02-28
+EMP-2274,Archana Das,Staff Software Engineer,Gurugram,15,4,8340000,0.2,Meets,2021-03-28
+EMP-2275,Suresh Sundaram,Product Manager,Mumbai,13,3,2930000,0.15,Meets,2021-12-23
+EMP-2276,Mohan Iyer,Principal Engineer,Noida,2,1,13350000,0.25,Meets,2019-10-08
+EMP-2277,Archana Das,Data Scientist,Gurugram,5,4,3140000,0.12,Exceeds,2024-02-08
+EMP-2278,Riya Shukla,UX Designer,Mumbai,12,6,1900000,0.1,Meets,2019-07-25
+EMP-2279,Ashish Dubey,Staff Software Engineer,Hyderabad,7,4,7800000,0.2,Exceeds,2019-07-20
+EMP-2280,Chirag Subramanian,Senior UX Designer,Pune,5,5,3810000,0.15,Exceeds,2022-07-11
+EMP-2281,Payal Shukla,Staff Software Engineer,Pune,11,1,6350000,0.2,Meets,2020-09-20
+EMP-2282,Krishnan Subramanian,Data Scientist,Pune,3,1,2370000,0.12,Meets,2018-04-16
+EMP-2283,Aditya Subramanian,Senior Data Scientist,Mumbai,13,6,7540000,0.18,Meets,2023-06-18
+EMP-2284,Priya Kamath,Staff Software Engineer,Gurugram,2,1,7100000,0.2,Below,2020-01-02
+EMP-2285,Jayesh Venkatesh,UX Designer,Delhi NCR,15,7,1990000,0.1,Meets,2018-11-18
+EMP-2286,Kartik Shah,Data Scientist,Hyderabad,18,4,2430000,0.12,Meets,2022-07-19
+EMP-2287,Rekha Menon,Senior Software Engineer,Delhi NCR,9,1,3620000,0.15,Meets,2023-02-15
+EMP-2288,Priya Ghosh,Senior Data Scientist,Bengaluru,7,1,6840000,0.18,Meets,2017-03-16
+EMP-2289,Shruti Singh,Senior Product Manager,Delhi NCR,10,2,6710000,0.2,Exceeds,2022-07-09
+EMP-2290,Lalitha Yadav,Data Scientist,Mumbai,4,4,3100000,0.12,Meets,2022-01-16
+EMP-2291,Rashmi Agarwal,Senior Data Scientist,Hyderabad,5,5,5840000,0.18,Meets,2020-12-17
+EMP-2292,Rajan Subramanian,Software Engineer,Bengaluru,3,2,1200000,0.1,Below,2019-03-28
+EMP-2293,Rohit Iyer,Software Engineer,Noida,12,5,1360000,0.1,Exceeds,2022-02-17
+EMP-2294,Arun Dixit,Software Engineer,Hyderabad,3,2,1490000,0.1,Exceeds,2021-05-11
+EMP-2295,Sunil Basu,Senior Software Engineer,Gurugram,11,4,3620000,0.15,Exceeds,2024-04-24
+EMP-2296,Shanthi Mitra,Data Scientist,Pune,2,1,2900000,0.12,Exceeds,2017-06-01
+EMP-2297,Nandini Nair,UX Designer,Delhi NCR,9,7,2200000,0.1,Exceeds,2019-12-09
+EMP-2298,Jayesh Basu,Senior Software Engineer,Bengaluru,18,7,3180000,0.15,Below,2024-12-03
+EMP-2299,Tejas Modi,Senior Data Scientist,Mumbai,14,2,7120000,0.18,Meets,2017-07-22
+EMP-2300,Sachin Tripathi,Staff Software Engineer,Pune,14,6,7270000,0.2,Meets,2021-04-03
+EMP-2301,Suhana Tripathi,Principal Engineer,Hyderabad,6,1,13660000,0.25,Meets,2024-06-14
+EMP-2302,Geeta Bose,Senior Software Engineer,Chennai,11,8,2600000,0.15,Below,2018-03-26
+EMP-2303,Parth Hegde,Product Manager,Bengaluru,6,1,3380000,0.15,Exceeds,2022-07-17
+EMP-2304,Ayush Tripathi,Software Engineer,Delhi NCR,2,2,1620000,0.1,Meets,2020-02-15
+EMP-2305,Swati Venkatesh,Senior Software Engineer,Hyderabad,9,3,3220000,0.15,Exceeds,2022-11-21
+EMP-2306,Harsh Sinha,Senior Software Engineer,Delhi NCR,4,2,2920000,0.15,Below,2019-02-28
+EMP-2307,Hemant Sundaram,Senior Product Manager,Mumbai,7,5,7290000,0.2,Exceeds,2024-01-13
+EMP-2308,Venkat Shah,UX Designer,Hyderabad,10,5,1920000,0.1,Meets,2017-10-20
+EMP-2309,Pooja Pai,Senior Data Scientist,Pune,17,1,5970000,0.18,Meets,2023-03-14
+EMP-2310,Neha Biswas,Principal Engineer,Pune,2,2,13870000,0.25,Meets,2024-09-26
+EMP-2311,Preeti Singh,Senior UX Designer,Chennai,14,5,3250000,0.15,Below,2022-10-08
+EMP-2312,Shruti Naidu,Software Engineer,Delhi NCR,18,6,1770000,0.1,Exceeds,2019-02-08
+EMP-2313,Indira Subramanian,Principal Engineer,Delhi NCR,3,1,15670000,0.25,Meets,2022-03-06
+EMP-2314,Murali Modi,Principal Engineer,Chennai,2,2,13480000,0.25,Meets,2019-10-07
+EMP-2315,Pranav Srivastava,Senior UX Designer,Delhi NCR,3,1,4270000,0.15,Exceeds,2017-09-16
+EMP-2316,Parth Khanna,Software Engineer,Chennai,6,3,1110000,0.1,Below,2022-01-01
+EMP-2317,Jyoti Sundaram,Staff Software Engineer,Hyderabad,13,2,7430000,0.2,Meets,2018-06-10
+EMP-2318,Akash Banerjee,Senior Product Manager,Hyderabad,15,8,5370000,0.2,Below,2019-12-18
+EMP-2319,Anjali Desai,Senior Data Scientist,Chennai,7,4,6610000,0.18,Exceeds,2019-03-24
+EMP-2320,Pranav Banerjee,Software Engineer,Noida,3,1,1190000,0.1,Below,2020-11-19
+EMP-2321,Sachin Kapoor,Senior Software Engineer,Gurugram,9,6,3950000,0.15,Exceeds,2018-12-22
+EMP-2322,Varun Rao,Senior Product Manager,Gurugram,4,3,6730000,0.2,Exceeds,2017-01-13
+EMP-2323,Ashish Vyas,Senior UX Designer,Noida,17,7,3390000,0.15,Below,2023-02-27
+EMP-2324,Rahul Banerjee,Senior UX Designer,Pune,3,2,3790000,0.15,Exceeds,2021-02-03
+EMP-2325,Padma Rastogi,Senior Product Manager,Hyderabad,4,1,4950000,0.2,Below,2017-07-21
+EMP-2326,Tushar Raval,Staff Software Engineer,Noida,8,4,6920000,0.2,Exceeds,2021-11-10
+EMP-2327,Suresh Chakraborty,Product Manager,Pune,17,3,2860000,0.15,Exceeds,2017-07-03
+EMP-2328,Usha Pillai,Product Manager,Gurugram,7,6,3010000,0.15,Exceeds,2024-02-10
+EMP-2329,Preeti Basu,UX Designer,Gurugram,4,4,2020000,0.1,Meets,2023-06-06
+EMP-2330,Murali Nair,Senior UX Designer,Bengaluru,9,5,4030000,0.15,Meets,2019-12-22
+EMP-2331,Gopal Nair,Senior Software Engineer,Mumbai,15,4,3770000,0.15,Meets,2023-09-14
+EMP-2332,Girish Gupta,Data Scientist,Gurugram,11,2,2630000,0.12,Meets,2019-02-25
+EMP-2333,Aditya Mehta,Senior UX Designer,Hyderabad,8,4,3200000,0.15,Below,2023-02-22
+EMP-2334,Chirag Reddy,UX Designer,Pune,10,6,1590000,0.1,Below,2018-07-18
+EMP-2335,Rohan Rangan,UX Designer,Chennai,2,2,1550000,0.1,Below,2019-03-19
+EMP-2336,Manan Trivedi,Senior Data Scientist,Mumbai,5,3,6250000,0.18,Below,2022-07-09
+EMP-2337,Savitha Mukherjee,UX Designer,Gurugram,7,3,1960000,0.1,Meets,2023-01-13
+EMP-2338,Rahul Dey,Senior Product Manager,Pune,10,6,6270000,0.2,Exceeds,2021-05-09
+EMP-2339,Dhruv Roy,Senior UX Designer,Mumbai,11,8,3680000,0.15,Below,2021-12-14
+EMP-2340,Yash Tiwary,Senior Data Scientist,Mumbai,15,8,7320000,0.18,Exceeds,2022-01-17
+EMP-2341,Riya Modi,Staff Software Engineer,Mumbai,6,5,7990000,0.2,Meets,2017-03-07
+EMP-2342,Radha Basu,Principal Engineer,Bengaluru,13,4,15860000,0.25,Exceeds,2024-09-13
+EMP-2343,Manan Bajpai,Senior Software Engineer,Bengaluru,16,3,3720000,0.15,Exceeds,2022-06-06
+EMP-2344,Indira Dubey,Product Manager,Mumbai,7,7,3010000,0.15,Meets,2020-11-08
+EMP-2345,Aditya Khanna,Principal Engineer,Delhi NCR,2,2,14940000,0.25,Meets,2017-04-09
+EMP-2346,Tanya Narayanan,Senior Data Scientist,Delhi NCR,10,7,7010000,0.18,Meets,2022-08-09
+EMP-2347,Arjun Yadav,Principal Engineer,Gurugram,14,2,14820000,0.25,Meets,2022-09-21
+EMP-2348,Radha Roy,Senior Data Scientist,Delhi NCR,4,3,6290000,0.18,Meets,2021-05-21
+EMP-2349,Savitha Banerjee,Product Manager,Pune,3,3,3030000,0.15,Exceeds,2019-12-01
+EMP-2350,Subramanian Mishra,Senior UX Designer,Delhi NCR,14,1,4110000,0.15,Meets,2022-12-23
+EMP-2351,Payal Kapoor,Principal Engineer,Gurugram,18,5,13470000,0.25,Below,2019-05-04
+EMP-2352,Harsh Sen,Senior UX Designer,Hyderabad,7,6,3920000,0.15,Meets,2018-04-12
+EMP-2353,Subramanian Desai,Principal Engineer,Delhi NCR,13,5,15930000,0.25,Meets,2024-02-16
+EMP-2354,Uma Shukla,Software Engineer,Mumbai,5,4,1450000,0.1,Meets,2023-01-28
+EMP-2355,Sachin Verma,Staff Software Engineer,Hyderabad,16,3,6100000,0.2,Below,2018-08-11
+EMP-2356,Yash Kapoor,Staff Software Engineer,Chennai,10,4,6180000,0.2,Meets,2019-08-26
+EMP-2357,Mohan Subramanian,Senior Software Engineer,Hyderabad,14,7,3210000,0.15,Meets,2017-01-18
+EMP-2358,Rahul Sharma,Principal Engineer,Chennai,18,4,12250000,0.25,Below,2020-04-23
+EMP-2359,Arun Mehta,Senior Product Manager,Delhi NCR,11,3,7000000,0.2,Exceeds,2021-05-15
+EMP-2360,Harsh Mathur,Data Scientist,Chennai,6,3,2510000,0.12,Meets,2022-04-06
+EMP-2361,Chirag Kumar,UX Designer,Bengaluru,6,2,2210000,0.1,Exceeds,2019-02-12
+EMP-2362,Suresh Rao,Software Engineer,Noida,3,3,1110000,0.1,Below,2017-01-23
+EMP-2363,Jayesh Shah,Senior Software Engineer,Noida,10,8,2810000,0.15,Meets,2020-12-22
+EMP-2364,Abhishek Ghosh,Software Engineer,Delhi NCR,18,5,1390000,0.1,Meets,2023-02-17
+EMP-2365,Pranav Pandey,Senior Data Scientist,Mumbai,17,4,7300000,0.18,Meets,2021-09-07
+EMP-2366,Archana Rastogi,Senior Product Manager,Noida,17,4,5130000,0.2,Meets,2022-04-01
+EMP-2367,Pooja Yadav,Software Engineer,Mumbai,17,3,1430000,0.1,Below,2018-12-24
+EMP-2368,Sunil Joshi,Senior Software Engineer,Delhi NCR,11,5,3450000,0.15,Meets,2018-03-28
+EMP-2369,Nikhil Mehta,Software Engineer,Delhi NCR,15,2,1540000,0.1,Meets,2017-03-22
+EMP-2370,Jyoti Dey,Staff Software Engineer,Chennai,10,2,6700000,0.2,Meets,2019-02-13
+EMP-2371,Akash Kapoor,UX Designer,Gurugram,17,7,1930000,0.1,Meets,2018-03-23
+EMP-2372,Preeti Narayanan,Software Engineer,Hyderabad,17,8,1580000,0.1,Exceeds,2022-10-01
+EMP-2373,Deepa Reddy,Staff Software Engineer,Gurugram,15,8,6470000,0.2,Below,2021-11-11
+EMP-2374,Hemant Hegde,Software Engineer,Pune,12,2,1200000,0.1,Below,2024-06-22
+EMP-2375,Aparna Malhotra,UX Designer,Hyderabad,3,1,1810000,0.1,Meets,2024-08-28
+EMP-2376,Suresh Choudhary,Staff Software Engineer,Mumbai,12,5,7730000,0.2,Meets,2020-09-21
+EMP-2377,Pooja Tandon,UX Designer,Noida,16,8,1590000,0.1,Meets,2024-06-04
+EMP-2378,Samir Shukla,Senior UX Designer,Bengaluru,2,1,4410000,0.15,Exceeds,2020-11-22
+EMP-2379,Vivek Thakkar,Senior UX Designer,Chennai,9,8,3360000,0.15,Meets,2024-12-22
+EMP-2380,Padma Biswas,Senior Product Manager,Gurugram,9,1,7350000,0.2,Exceeds,2021-09-17
+EMP-2381,Mihir Balakrishnan,Senior Product Manager,Mumbai,6,6,6940000,0.2,Exceeds,2018-05-20
+EMP-2382,Rohit Mishra,Principal Engineer,Pune,8,8,15350000,0.25,Exceeds,2022-02-25
+EMP-2383,Lalitha Choudhary,UX Designer,Bengaluru,5,4,1800000,0.1,Below,2019-08-01
+EMP-2384,Archana Khanna,Data Scientist,Bengaluru,17,3,2670000,0.12,Meets,2019-02-13
+EMP-2385,Girish Dey,Senior Data Scientist,Chennai,9,5,5790000,0.18,Meets,2021-08-26
+EMP-2386,Shubham Raval,Staff Software Engineer,Hyderabad,18,5,7250000,0.2,Meets,2022-12-24
+EMP-2387,Rashmi Das,Data Scientist,Pune,11,6,2770000,0.12,Exceeds,2019-09-18
+EMP-2388,Riya Murthy,Senior Product Manager,Mumbai,15,5,6720000,0.2,Meets,2017-09-04
+EMP-2389,Pallavi Malhotra,Software Engineer,Noida,8,5,1460000,0.1,Exceeds,2021-11-09
+EMP-2390,Isha Tripathi,Staff Software Engineer,Bengaluru,3,2,7260000,0.2,Meets,2018-10-28
+EMP-2391,Archana Joshi,Data Scientist,Pune,9,5,2490000,0.12,Meets,2023-07-14
+EMP-2392,Siddharth Basu,Senior Product Manager,Bengaluru,16,4,6650000,0.2,Exceeds,2020-12-07
+EMP-2393,Hema Yadav,Product Manager,Gurugram,7,2,3350000,0.15,Exceeds,2018-07-02
+EMP-2394,Vivek Dixit,UX Designer,Delhi NCR,10,1,1860000,0.1,Meets,2019-01-05
+EMP-2395,Samir Raval,Senior Product Manager,Bengaluru,11,8,6410000,0.2,Meets,2022-02-26
+EMP-2396,Bhavna Vyas,Senior Product Manager,Pune,18,3,5100000,0.2,Below,2023-02-12
+EMP-2397,Pallavi Bhatt,Principal Engineer,Pune,11,4,12780000,0.25,Meets,2024-09-27
+EMP-2398,Kunal Roy,Software Engineer,Mumbai,9,1,1520000,0.1,Meets,2023-02-13
+EMP-2399,Nandini Mehta,Product Manager,Delhi NCR,13,8,3300000,0.15,Exceeds,2021-11-07
+EMP-2400,Mahesh Dubey,Senior Product Manager,Mumbai,2,1,5650000,0.2,Below,2023-02-07
+EMP-2401,Lalitha Sen,Data Scientist,Noida,6,1,2590000,0.12,Meets,2017-02-03
+EMP-2402,Tushar Subramanian,Software Engineer,Hyderabad,9,5,1360000,0.1,Meets,2024-11-13
+EMP-2403,Pallavi Mehta,UX Designer,Chennai,2,1,1970000,0.1,Exceeds,2018-06-17
+EMP-2404,Yash Sinha,Senior Software Engineer,Delhi NCR,4,3,3360000,0.15,Meets,2023-07-27
+EMP-2405,Siddharth Mukherjee,Software Engineer,Gurugram,14,5,1560000,0.1,Exceeds,2021-11-26
+EMP-2406,Arjun Sundaram,Senior Product Manager,Bengaluru,5,1,6330000,0.2,Meets,2018-05-07
+EMP-2407,Amit Verma,Senior Product Manager,Pune,18,3,5850000,0.2,Meets,2020-10-27
+EMP-2408,Sunil Raval,Product Manager,Pune,3,3,2990000,0.15,Exceeds,2018-05-22
+EMP-2409,Smita Das,Senior Software Engineer,Delhi NCR,17,6,3980000,0.15,Exceeds,2020-02-10
+EMP-2410,Shruthi Chandra,Senior Data Scientist,Mumbai,16,6,6040000,0.18,Below,2019-10-19
+EMP-2411,Neha Srivastava,Senior Product Manager,Chennai,12,4,4800000,0.2,Below,2023-05-27
+EMP-2412,Venkat Biswas,Senior Product Manager,Hyderabad,17,8,5660000,0.2,Meets,2021-08-18
+EMP-2413,Tanya Trivedi,Senior Software Engineer,Hyderabad,10,3,2910000,0.15,Meets,2020-05-24
+EMP-2414,Shruti Dubey,Senior Software Engineer,Mumbai,2,2,3350000,0.15,Below,2017-09-09
+EMP-2415,Tanya Desai,Data Scientist,Gurugram,14,4,2590000,0.12,Meets,2019-08-17
+EMP-2416,Pallavi Yadav,Data Scientist,Mumbai,9,3,2870000,0.12,Meets,2019-08-06
+EMP-2417,Ravi Mathur,Staff Software Engineer,Hyderabad,13,1,6980000,0.2,Meets,2020-02-09
+EMP-2418,Saritha Awasthi,Senior Product Manager,Pune,13,7,6000000,0.2,Exceeds,2017-01-21
+EMP-2419,Subramanian Vyas,Senior Product Manager,Mumbai,10,5,6670000,0.2,Meets,2019-07-21
+EMP-2420,Harish Srivastava,UX Designer,Chennai,4,3,1860000,0.1,Meets,2023-06-27
+EMP-2421,Chandra Kapoor,Senior Product Manager,Gurugram,2,1,6830000,0.2,Meets,2020-02-17
+EMP-2422,Bhavna Sen,Product Manager,Pune,5,2,2750000,0.15,Exceeds,2018-08-22
+EMP-2423,Rekha Mehta,Senior UX Designer,Gurugram,15,1,4320000,0.15,Exceeds,2019-10-19
+EMP-2424,Suhana Kamath,Staff Software Engineer,Hyderabad,6,1,6430000,0.2,Meets,2019-09-13
+EMP-2425,Asha Tripathi,Senior Data Scientist,Bengaluru,11,2,6030000,0.18,Below,2024-08-06
+EMP-2426,Bhavana Yadav,Principal Engineer,Noida,7,5,13550000,0.25,Meets,2021-03-24
+EMP-2427,Aditya Rao,Senior Product Manager,Gurugram,14,7,5910000,0.2,Meets,2017-04-17
+EMP-2428,Harsh Gupta,Data Scientist,Noida,7,4,2450000,0.12,Meets,2018-02-16
+EMP-2429,Jyoti Mehta,Staff Software Engineer,Bengaluru,15,7,6970000,0.2,Below,2023-04-26
+EMP-2430,Nisha Shetty,Senior UX Designer,Noida,5,4,3800000,0.15,Meets,2024-04-28
+EMP-2431,Arjun Sharma,Senior Software Engineer,Delhi NCR,10,4,3510000,0.15,Meets,2018-09-01
+EMP-2432,Lakshmi Murthy,UX Designer,Pune,13,2,1700000,0.1,Meets,2021-05-28
+EMP-2433,Tushar Raval,Data Scientist,Noida,14,4,2450000,0.12,Meets,2024-03-12
+EMP-2434,Hema Ghosh,Data Scientist,Gurugram,13,7,2660000,0.12,Meets,2018-12-08
+EMP-2435,Amit Subramanian,Senior UX Designer,Hyderabad,12,1,4170000,0.15,Exceeds,2017-02-27
+EMP-2436,Ravi Basu,Staff Software Engineer,Gurugram,4,3,6780000,0.2,Below,2018-10-02
+EMP-2437,Siddharth Tandon,UX Designer,Noida,3,1,1720000,0.1,Meets,2024-01-07
+EMP-2438,Shruthi Kapoor,Data Scientist,Delhi NCR,18,4,3210000,0.12,Exceeds,2017-06-08
+EMP-2439,Tarun Sundaram,Software Engineer,Hyderabad,14,6,1430000,0.1,Exceeds,2023-10-07
+EMP-2440,Rupal Thakkar,Data Scientist,Bengaluru,4,3,2500000,0.12,Meets,2022-06-27
+EMP-2441,Geeta Khanna,Product Manager,Pune,14,1,2490000,0.15,Meets,2023-09-04
+EMP-2442,Varun Trivedi,Data Scientist,Mumbai,5,5,2780000,0.12,Meets,2021-12-15
+EMP-2443,Tanya Singh,UX Designer,Gurugram,16,8,2060000,0.1,Meets,2024-02-09
+EMP-2444,Tushar Biswas,Senior Software Engineer,Noida,9,6,3270000,0.15,Meets,2017-12-27
+EMP-2445,Gopal Khanna,Product Manager,Pune,12,2,2590000,0.15,Meets,2024-06-12
+EMP-2446,Hema Pandey,Principal Engineer,Delhi NCR,8,8,17100000,0.25,Exceeds,2020-12-08
+EMP-2447,Dhruv Rao,Product Manager,Pune,13,3,3060000,0.15,Exceeds,2018-02-22
+EMP-2448,Jyoti Banerjee,Senior UX Designer,Bengaluru,3,2,4080000,0.15,Meets,2024-10-28
+EMP-2449,Girish Srivastava,Product Manager,Gurugram,18,5,3400000,0.15,Exceeds,2019-01-17
+EMP-2450,Komal Khanna,UX Designer,Gurugram,13,7,1640000,0.1,Below,2024-02-23
+EMP-2451,Subramanian Krishnan,Data Scientist,Gurugram,8,7,2520000,0.12,Meets,2022-06-20
+EMP-2452,Rajan Verma,Product Manager,Hyderabad,17,6,2570000,0.15,Meets,2024-07-07
+EMP-2453,Indira Das,UX Designer,Chennai,16,3,1710000,0.1,Meets,2020-02-24
+EMP-2454,Tanvi Shah,Product Manager,Pune,8,3,2800000,0.15,Meets,2024-01-06
+EMP-2455,Neha Mathur,UX Designer,Gurugram,18,6,2310000,0.1,Exceeds,2021-05-18
+EMP-2456,Isha Shetty,Senior Data Scientist,Bengaluru,3,1,6780000,0.18,Meets,2024-11-04
+EMP-2457,Rahul Balakrishnan,Senior UX Designer,Chennai,10,6,3560000,0.15,Meets,2018-06-28
+EMP-2458,Prakash Biswas,Senior Data Scientist,Pune,7,7,6130000,0.18,Meets,2022-11-17
+EMP-2459,Vidya Mukherjee,Senior UX Designer,Gurugram,11,8,3620000,0.15,Below,2019-11-26
+EMP-2460,Amit Dey,Senior Product Manager,Noida,4,1,5650000,0.2,Meets,2020-06-11
+EMP-2461,Mihir Tiwary,Product Manager,Delhi NCR,16,6,2930000,0.15,Meets,2024-07-06
+EMP-2462,Mahesh Kapoor,Staff Software Engineer,Bengaluru,10,2,7960000,0.2,Exceeds,2023-02-04
+EMP-2463,Divya Kamath,Senior Software Engineer,Gurugram,14,2,3160000,0.15,Meets,2019-02-21
+EMP-2464,Aditya Bhatt,UX Designer,Delhi NCR,16,3,2280000,0.1,Exceeds,2019-01-02
+EMP-2465,Nisha Vyas,Senior Product Manager,Chennai,10,8,5010000,0.2,Below,2019-10-20
+EMP-2466,Mohan Vyas,Senior UX Designer,Noida,11,6,3700000,0.15,Meets,2020-02-15
+EMP-2467,Srikanth Ghosh,Product Manager,Chennai,2,1,2450000,0.15,Meets,2022-05-16
+EMP-2468,Priya Saxena,Data Scientist,Bengaluru,17,5,2700000,0.12,Meets,2021-10-08
+EMP-2469,Rekha Malhotra,Software Engineer,Chennai,15,7,1530000,0.1,Exceeds,2023-07-08
+EMP-2470,Akash Trivedi,Product Manager,Mumbai,10,5,2930000,0.15,Meets,2021-07-07
+EMP-2471,Manish Mathur,Senior Software Engineer,Hyderabad,16,8,3250000,0.15,Exceeds,2020-06-01
+EMP-2472,Manish Das,Staff Software Engineer,Bengaluru,5,3,6260000,0.2,Below,2024-12-01
+EMP-2473,Anjali Tandon,Principal Engineer,Mumbai,12,7,16920000,0.25,Exceeds,2022-08-23
+EMP-2474,Manish Sundaram,Software Engineer,Chennai,6,1,1500000,0.1,Exceeds,2018-09-16
+EMP-2475,Sneha Hegde,Staff Software Engineer,Pune,14,1,5890000,0.2,Below,2023-08-08
+EMP-2476,Saritha Subramanian,Software Engineer,Pune,18,4,1380000,0.1,Meets,2021-06-06
+EMP-2477,Karan Joshi,Software Engineer,Mumbai,8,6,1570000,0.1,Meets,2020-02-08
+EMP-2478,Samir Hegde,UX Designer,Chennai,5,4,2010000,0.1,Exceeds,2017-01-19
+EMP-2479,Pooja Dey,Senior UX Designer,Hyderabad,7,4,3500000,0.15,Meets,2017-01-12
+EMP-2480,Chirag Mishra,Staff Software Engineer,Mumbai,13,8,8430000,0.2,Exceeds,2017-12-13
+EMP-2481,Shanthi Mathur,Senior Product Manager,Hyderabad,16,5,5360000,0.2,Meets,2020-10-06
+EMP-2482,Uma Shah,Data Scientist,Chennai,7,1,2420000,0.12,Meets,2024-05-27
+EMP-2483,Chirag Verma,Product Manager,Chennai,18,7,2730000,0.15,Meets,2017-10-28
+EMP-2484,Uma Tandon,Senior Product Manager,Pune,14,4,5270000,0.2,Meets,2019-10-10
+EMP-2485,Deepa Das,Senior Product Manager,Noida,18,2,5200000,0.2,Meets,2019-01-07
+EMP-2486,Uma Shetty,Senior Software Engineer,Gurugram,14,8,3520000,0.15,Exceeds,2017-06-08
+EMP-2487,Sunil Nair,Senior Data Scientist,Mumbai,17,2,8190000,0.18,Exceeds,2022-09-24
+EMP-2488,Chirag Iyer,UX Designer,Chennai,10,1,1600000,0.1,Meets,2021-02-07
+EMP-2489,Sanjay Bhatt,Data Scientist,Mumbai,14,4,3030000,0.12,Exceeds,2020-10-21
+EMP-2490,Jayesh Murthy,Staff Software Engineer,Noida,13,8,7010000,0.2,Meets,2018-03-26
+EMP-2491,Harsh Banerjee,Staff Software Engineer,Noida,16,6,6880000,0.2,Meets,2022-06-14
+EMP-2492,Shruti Raval,UX Designer,Chennai,8,7,1760000,0.1,Meets,2021-06-15
+EMP-2493,Srikanth Ghosh,Senior UX Designer,Noida,11,1,3690000,0.15,Exceeds,2021-01-10
+EMP-2494,Nikhil Gupta,Principal Engineer,Pune,10,3,10960000,0.25,Below,2024-06-05
+EMP-2495,Kartik Shukla,Staff Software Engineer,Delhi NCR,9,5,7870000,0.2,Meets,2018-10-13
+EMP-2496,Nandini Krishnan,Senior Data Scientist,Pune,17,3,6210000,0.18,Meets,2021-01-24
+EMP-2497,Riya Saxena,Senior Data Scientist,Noida,12,6,5990000,0.18,Exceeds,2023-02-28
+EMP-2498,Uma Mehta,Principal Engineer,Bengaluru,3,2,14810000,0.25,Meets,2022-09-19
+EMP-2499,Chirag Sundaram,Staff Software Engineer,Chennai,3,3,6440000,0.2,Meets,2024-10-19
+EMP-2500,Aditya Dey,Data Scientist,Mumbai,14,3,3050000,0.12,Exceeds,2018-08-19
+EMP-2501,Yash Ghosh,Software Engineer,Noida,15,3,1270000,0.1,Meets,2024-09-07
+EMP-2502,Rekha Iyer,Senior UX Designer,Noida,18,4,3410000,0.15,Meets,2021-07-11
+EMP-2503,Sanjay Roy,Senior Data Scientist,Mumbai,13,6,7570000,0.18,Exceeds,2022-10-21
+EMP-2504,Chandra Mehta,Software Engineer,Delhi NCR,16,3,1610000,0.1,Exceeds,2020-04-22
+EMP-2505,Rekha Mukherjee,Senior Product Manager,Hyderabad,5,1,6200000,0.2,Meets,2021-01-11
+EMP-2506,Mahesh Vyas,Senior Software Engineer,Delhi NCR,8,4,3190000,0.15,Meets,2021-09-16
+EMP-2507,Varun Kapoor,Senior Data Scientist,Hyderabad,14,1,6280000,0.18,Meets,2017-05-07
+EMP-2508,Kamala Bhat,Senior Data Scientist,Delhi NCR,2,1,7640000,0.18,Exceeds,2022-02-01
+EMP-2509,Nandini Trivedi,Product Manager,Noida,5,3,2790000,0.15,Exceeds,2018-03-07
+EMP-2510,Uma Chandra,Data Scientist,Gurugram,3,1,2860000,0.12,Meets,2022-08-13
+EMP-2511,Revathi Pai,Staff Software Engineer,Bengaluru,11,4,7330000,0.2,Meets,2017-11-09
+EMP-2512,Padma Sundaram,UX Designer,Bengaluru,9,3,1830000,0.1,Below,2019-02-24
+EMP-2513,Pranav Sen,UX Designer,Pune,15,5,1780000,0.1,Meets,2024-09-05
+EMP-2514,Anjali Bhatt,Principal Engineer,Hyderabad,8,3,13900000,0.25,Meets,2019-07-25
+EMP-2515,Sachin Mukherjee,Staff Software Engineer,Hyderabad,5,2,7070000,0.2,Meets,2017-06-14
+EMP-2516,Dhruv Mishra,UX Designer,Delhi NCR,10,3,2140000,0.1,Meets,2018-03-06
+EMP-2517,Kunal Singh,Software Engineer,Delhi NCR,9,4,1520000,0.1,Meets,2022-02-23
+EMP-2518,Ayush Subramanian,Senior UX Designer,Hyderabad,13,3,3840000,0.15,Meets,2024-08-05
+EMP-2519,Tushar Srivastava,Staff Software Engineer,Pune,2,2,7450000,0.2,Exceeds,2020-04-03
+EMP-2520,Karan Hegde,Staff Software Engineer,Gurugram,12,8,6830000,0.2,Below,2023-07-25
+EMP-2521,Srikanth Rao,Software Engineer,Noida,18,1,1260000,0.1,Meets,2024-08-27
+EMP-2522,Kamala Tiwary,Software Engineer,Pune,3,3,1290000,0.1,Meets,2017-04-10
+EMP-2523,Suhana Murthy,Senior UX Designer,Noida,11,8,3340000,0.15,Below,2021-10-02
+EMP-2524,Preeti Vyas,Data Scientist,Hyderabad,4,1,2580000,0.12,Meets,2019-07-14
+EMP-2525,Pooja Shetty,Senior Product Manager,Gurugram,8,8,7010000,0.2,Exceeds,2022-12-21
+EMP-2526,Uma Subramanian,Staff Software Engineer,Mumbai,13,2,9100000,0.2,Exceeds,2019-07-18
+EMP-2527,Manan Mukherjee,UX Designer,Bengaluru,6,2,2070000,0.1,Meets,2019-12-02
+EMP-2528,Vidya Verma,UX Designer,Delhi NCR,16,5,2080000,0.1,Meets,2018-03-07
+EMP-2529,Pranav Tandon,Software Engineer,Delhi NCR,17,1,1640000,0.1,Exceeds,2020-04-19
+EMP-2530,Riya Raval,Senior UX Designer,Gurugram,2,1,3830000,0.15,Meets,2021-10-21
+EMP-2531,Rajesh Gupta,Data Scientist,Pune,13,1,2560000,0.12,Exceeds,2021-06-03
+EMP-2532,Lalitha Chakraborty,Software Engineer,Mumbai,11,3,1450000,0.1,Meets,2017-02-25
+EMP-2533,Shubham Raval,Product Manager,Chennai,4,4,2550000,0.15,Meets,2018-05-16
+EMP-2534,Uma Tiwari,Staff Software Engineer,Mumbai,18,7,7660000,0.2,Meets,2020-10-02
+EMP-2535,Pranav Banerjee,Senior Software Engineer,Mumbai,11,7,3700000,0.15,Meets,2021-09-19
+EMP-2536,Krishnan Verma,Senior Data Scientist,Chennai,17,8,5350000,0.18,Below,2020-12-10
+EMP-2537,Tanvi Rangan,Principal Engineer,Bengaluru,5,2,15890000,0.25,Exceeds,2023-01-11
+EMP-2538,Samir Reddy,Senior Product Manager,Pune,11,5,6000000,0.2,Exceeds,2021-05-17
+EMP-2539,Girish Modi,Data Scientist,Chennai,12,6,2270000,0.12,Meets,2017-03-07
+EMP-2540,Aparna Ghosh,Senior Product Manager,Chennai,17,1,5020000,0.2,Below,2024-03-21
+EMP-2541,Naveen Modi,Senior UX Designer,Chennai,3,3,3850000,0.15,Meets,2022-09-18
+EMP-2542,Lakshmi Pai,Software Engineer,Pune,13,2,1280000,0.1,Meets,2017-06-13
+EMP-2543,Madhuri Banerjee,Data Scientist,Hyderabad,5,3,2460000,0.12,Meets,2017-05-14
+EMP-2544,Uma Shukla,Senior Software Engineer,Gurugram,11,4,3020000,0.15,Below,2019-02-12
+EMP-2545,Harsh Choudhary,Software Engineer,Pune,2,2,1160000,0.1,Below,2019-04-11
+EMP-2546,Rashmi Das,Senior UX Designer,Delhi NCR,5,5,3910000,0.15,Meets,2020-12-02
+EMP-2547,Deepa Menon,Senior UX Designer,Noida,2,2,3620000,0.15,Meets,2022-08-02
+EMP-2548,Swati Mishra,Senior Software Engineer,Delhi NCR,8,6,4000000,0.15,Exceeds,2021-05-18
+EMP-2549,Rohan Patel,Senior Product Manager,Gurugram,7,3,6140000,0.2,Meets,2018-04-18
+EMP-2550,Suhana Iyer,Senior Product Manager,Chennai,11,4,6090000,0.2,Meets,2021-10-11
+EMP-2551,Kamala Joshi,Data Scientist,Gurugram,3,1,2810000,0.12,Exceeds,2018-07-13
+EMP-2552,Pallavi Dixit,Staff Software Engineer,Gurugram,8,2,7420000,0.2,Meets,2019-02-27
+EMP-2553,Sunita Srivastava,Senior UX Designer,Mumbai,16,8,4440000,0.15,Meets,2019-10-09
+EMP-2554,Lalitha Mathur,Senior Product Manager,Noida,12,6,6570000,0.2,Exceeds,2017-02-16
+EMP-2555,Pranav Das,Senior Software Engineer,Chennai,11,6,3220000,0.15,Meets,2018-07-27
+EMP-2556,Savitha Balakrishnan,Senior Software Engineer,Chennai,11,8,2810000,0.15,Meets,2020-10-08
+EMP-2557,Isha Saxena,Data Scientist,Hyderabad,12,4,2200000,0.12,Below,2023-10-26
+EMP-2558,Tejas Dixit,Senior Product Manager,Pune,17,2,6470000,0.2,Exceeds,2022-09-04
+EMP-2559,Shruti Narayanan,Senior UX Designer,Hyderabad,5,5,3710000,0.15,Meets,2022-08-21
+EMP-2560,Bhavana Shah,Software Engineer,Mumbai,2,1,1600000,0.1,Exceeds,2024-09-10
+EMP-2561,Murali Shukla,UX Designer,Gurugram,12,5,2240000,0.1,Exceeds,2023-12-12
+EMP-2562,Kavitha Basu,Senior Software Engineer,Bengaluru,6,3,3380000,0.15,Meets,2017-01-23
+EMP-2563,Hemant Sundaram,Data Scientist,Chennai,2,1,2590000,0.12,Exceeds,2022-12-13
+EMP-2564,Nisha Mishra,UX Designer,Noida,7,4,1630000,0.1,Meets,2023-06-27
+EMP-2565,Priya Iyer,UX Designer,Hyderabad,6,2,1910000,0.1,Meets,2017-03-24
+EMP-2566,Kartik Rangan,Senior UX Designer,Noida,6,6,3050000,0.15,Below,2024-12-20
+EMP-2567,Smita Srivastava,UX Designer,Hyderabad,16,7,1770000,0.1,Meets,2019-07-20
+EMP-2568,Tushar Vyas,Software Engineer,Gurugram,18,5,1410000,0.1,Meets,2022-01-02
+EMP-2569,Rajesh Bhatt,Senior Data Scientist,Gurugram,17,2,6240000,0.18,Meets,2021-08-17
+EMP-2570,Shruthi Joshi,Senior Software Engineer,Mumbai,4,3,4030000,0.15,Exceeds,2022-09-25
+EMP-2571,Smita Desai,Software Engineer,Gurugram,12,7,1580000,0.1,Meets,2021-03-02
+EMP-2572,Saritha Kapoor,Senior Data Scientist,Delhi NCR,3,3,6830000,0.18,Meets,2017-11-10
+EMP-2573,Payal Pai,Senior Data Scientist,Bengaluru,18,2,6080000,0.18,Meets,2021-03-20
+EMP-2574,Vishal Shah,Product Manager,Delhi NCR,5,5,2480000,0.15,Below,2024-06-26
+EMP-2575,Uma Gupta,Staff Software Engineer,Delhi NCR,7,7,7390000,0.2,Meets,2022-02-05
+EMP-2576,Gaurav Sinha,Senior Data Scientist,Hyderabad,15,7,6370000,0.18,Meets,2019-04-19
+EMP-2577,Suhana Dixit,Senior Product Manager,Bengaluru,5,1,6550000,0.2,Meets,2023-08-10
+EMP-2578,Rajesh Bhatt,Senior UX Designer,Pune,17,5,3820000,0.15,Meets,2023-01-10
+EMP-2579,Ramesh Biswas,Senior UX Designer,Noida,3,1,3900000,0.15,Meets,2023-10-21
+EMP-2580,Sunil Gowda,Product Manager,Chennai,10,7,2740000,0.15,Meets,2020-09-11
+EMP-2581,Tushar Krishnan,Staff Software Engineer,Chennai,4,1,6980000,0.2,Meets,2018-11-15
+EMP-2582,Abhishek Menon,Senior Product Manager,Pune,3,1,5460000,0.2,Meets,2017-10-22
+EMP-2583,Bhavana Modi,Principal Engineer,Mumbai,6,4,14320000,0.25,Meets,2019-02-23
+EMP-2584,Radha Murthy,Staff Software Engineer,Delhi NCR,4,4,7970000,0.2,Meets,2022-05-06
+EMP-2585,Geeta Kamath,Senior Software Engineer,Delhi NCR,12,1,3410000,0.15,Meets,2019-08-03
+EMP-2586,Rajesh Vyas,Senior UX Designer,Pune,17,2,3480000,0.15,Meets,2023-04-20
+EMP-2587,Indira Shetty,Senior Software Engineer,Gurugram,4,1,3200000,0.15,Meets,2024-01-16
+EMP-2588,Jayesh Sen,Staff Software Engineer,Bengaluru,10,3,6860000,0.2,Below,2023-10-01
+EMP-2589,Arjun Subramanian,Data Scientist,Gurugram,4,2,2710000,0.12,Meets,2024-02-19
+EMP-2590,Aparna Menon,Data Scientist,Chennai,3,3,2350000,0.12,Meets,2022-09-28
+EMP-2591,Vishal Raval,Senior Product Manager,Mumbai,11,4,6950000,0.2,Meets,2017-07-22
+EMP-2592,Karthik Sinha,Principal Engineer,Delhi NCR,13,8,15950000,0.25,Meets,2020-03-02
+EMP-2593,Arun Vyas,Principal Engineer,Bengaluru,17,7,14710000,0.25,Meets,2021-08-18
+EMP-2594,Sneha Dubey,Senior UX Designer,Bengaluru,3,2,4160000,0.15,Exceeds,2024-11-28
+EMP-2595,Hema Mukherjee,Data Scientist,Hyderabad,4,1,2390000,0.12,Meets,2024-11-01
+EMP-2596,Vidya Joshi,Senior UX Designer,Bengaluru,2,1,4580000,0.15,Exceeds,2021-02-15
+EMP-2597,Krishnan Srivastava,Senior Data Scientist,Hyderabad,5,1,5630000,0.18,Meets,2018-04-14
+EMP-2598,Shubham Dubey,Senior Product Manager,Noida,6,3,6050000,0.2,Meets,2017-10-06
+EMP-2599,Jayesh Basu,Senior Product Manager,Mumbai,15,3,6920000,0.2,Exceeds,2019-08-08
+EMP-2600,Rahul Mathur,Senior Data Scientist,Bengaluru,14,3,7580000,0.18,Exceeds,2018-01-01
+EMP-2601,Archana Bajpai,Staff Software Engineer,Mumbai,11,7,8110000,0.2,Meets,2019-04-05
+EMP-2602,Preeti Tandon,Product Manager,Gurugram,3,3,3180000,0.15,Meets,2018-11-27
+EMP-2603,Uma Krishnan,Product Manager,Chennai,8,2,2630000,0.15,Meets,2022-09-17
+EMP-2604,Sanjay Agarwal,Principal Engineer,Gurugram,10,1,15180000,0.25,Meets,2019-11-28
+EMP-2605,Aparna Chakraborty,Senior UX Designer,Gurugram,3,1,4690000,0.15,Exceeds,2021-04-14
+EMP-2606,Divya Joshi,Product Manager,Chennai,16,1,2780000,0.15,Meets,2019-03-26
+EMP-2607,Tejas Roy,Software Engineer,Gurugram,9,8,1360000,0.1,Meets,2023-04-24
+EMP-2608,Hema Balakrishnan,Senior Product Manager,Pune,5,2,5530000,0.2,Meets,2020-07-08
+EMP-2609,Asha Awasthi,Senior Software Engineer,Gurugram,15,3,3170000,0.15,Meets,2019-07-12
+EMP-2610,Vivek Das,Staff Software Engineer,Gurugram,10,4,7860000,0.2,Meets,2017-12-19
+EMP-2611,Suhana Dey,Software Engineer,Delhi NCR,16,7,1740000,0.1,Exceeds,2020-05-20
+EMP-2612,Tushar Tiwary,Staff Software Engineer,Hyderabad,9,2,7070000,0.2,Meets,2024-04-19
+EMP-2613,Vandana Saxena,Senior UX Designer,Gurugram,9,4,4300000,0.15,Meets,2020-10-05
+EMP-2614,Dinesh Bhatt,Senior Data Scientist,Bengaluru,17,1,6040000,0.18,Meets,2023-08-26
+EMP-2615,Asha Das,Senior Software Engineer,Gurugram,2,2,3190000,0.15,Meets,2022-05-08
+EMP-2616,Lalitha Dixit,Senior Software Engineer,Bengaluru,16,1,3260000,0.15,Meets,2019-12-13
+EMP-2617,Kamala Sen,Staff Software Engineer,Chennai,2,1,7020000,0.2,Meets,2017-05-14
+EMP-2618,Bala Chakraborty,Product Manager,Pune,12,1,2440000,0.15,Meets,2017-02-13
+EMP-2619,Vijaya Reddy,Senior Product Manager,Gurugram,7,6,6250000,0.2,Meets,2020-03-11
+EMP-2620,Vandana Biswas,Principal Engineer,Mumbai,8,4,15990000,0.25,Meets,2021-09-22
+EMP-2621,Revathi Bhatt,UX Designer,Delhi NCR,16,8,2150000,0.1,Exceeds,2018-08-23
+EMP-2622,Tanya Awasthi,Data Scientist,Delhi NCR,4,2,2720000,0.12,Meets,2018-02-13
+EMP-2623,Rohan Mukherjee,Staff Software Engineer,Delhi NCR,7,3,6500000,0.2,Below,2024-03-28
+EMP-2624,Ashish Rangan,Principal Engineer,Bengaluru,6,4,15670000,0.25,Meets,2024-12-21
+EMP-2625,Tushar Dey,Software Engineer,Delhi NCR,9,6,1520000,0.1,Exceeds,2022-08-19
+EMP-2626,Samir Kamath,Data Scientist,Gurugram,11,3,2790000,0.12,Meets,2020-08-12
+EMP-2627,Amit Trivedi,Product Manager,Bengaluru,7,5,3090000,0.15,Exceeds,2021-03-06
+EMP-2628,Chandra Kamath,Staff Software Engineer,Hyderabad,12,3,7160000,0.2,Exceeds,2022-03-07
+EMP-2629,Venkat Vyas,Data Scientist,Bengaluru,6,3,2930000,0.12,Meets,2019-09-10
+EMP-2630,Sachin Shah,Senior Software Engineer,Bengaluru,6,4,3380000,0.15,Meets,2017-12-18
+EMP-2631,Tanvi Modi,Data Scientist,Chennai,11,3,2340000,0.12,Meets,2024-06-23
+EMP-2632,Ananya Venkatesh,Senior Software Engineer,Gurugram,5,3,2920000,0.15,Below,2020-08-12
+EMP-2633,Neha Pai,Senior Software Engineer,Chennai,18,4,3430000,0.15,Exceeds,2020-01-03
+EMP-2634,Sanjay Mathur,Data Scientist,Gurugram,18,7,2980000,0.12,Meets,2022-10-20
+EMP-2635,Ayush Murthy,Data Scientist,Bengaluru,6,6,2360000,0.12,Below,2022-07-12
+EMP-2636,Asha Sinha,Software Engineer,Delhi NCR,16,2,1440000,0.1,Meets,2023-08-10
+EMP-2637,Mahesh Shukla,Staff Software Engineer,Noida,4,2,6600000,0.2,Meets,2024-09-11
+EMP-2638,Vishal Thakkar,Senior Software Engineer,Noida,10,7,3270000,0.15,Exceeds,2024-12-19
+EMP-2639,Rohit Shukla,Staff Software Engineer,Pune,17,1,7420000,0.2,Exceeds,2021-08-18
+EMP-2640,Siddharth Bajpai,Senior UX Designer,Pune,10,5,3750000,0.15,Exceeds,2018-11-22
+EMP-2641,Sneha Pai,Product Manager,Noida,9,1,3030000,0.15,Exceeds,2024-02-20
+EMP-2642,Jyoti Yadav,Senior Product Manager,Gurugram,17,2,6810000,0.2,Meets,2017-05-06
+EMP-2643,Amit Joshi,Senior Data Scientist,Bengaluru,6,3,7200000,0.18,Exceeds,2021-06-14
+EMP-2644,Shruti Verma,Senior Product Manager,Bengaluru,4,2,6310000,0.2,Meets,2018-10-25
+EMP-2645,Kunal Chakraborty,Staff Software Engineer,Chennai,11,5,6310000,0.2,Below,2018-09-19
+EMP-2646,Tushar Dey,Senior Product Manager,Hyderabad,13,8,6460000,0.2,Exceeds,2019-02-07
+EMP-2647,Bhavna Awasthi,Staff Software Engineer,Pune,18,2,7210000,0.2,Meets,2018-02-27
+EMP-2648,Isha Sinha,Staff Software Engineer,Bengaluru,13,3,7280000,0.2,Meets,2022-03-23
+EMP-2649,Rajesh Naidu,Product Manager,Bengaluru,6,6,2700000,0.15,Meets,2021-03-07
+EMP-2650,Rahul Rastogi,Staff Software Engineer,Mumbai,5,1,8350000,0.2,Meets,2023-01-07
+EMP-2651,Sneha Shetty,Senior Software Engineer,Bengaluru,3,2,3390000,0.15,Meets,2017-02-10
+EMP-2652,Preeti Mitra,Software Engineer,Mumbai,8,4,1650000,0.1,Meets,2017-02-05
+EMP-2653,Nikhil Patel,Product Manager,Chennai,9,2,2770000,0.15,Meets,2020-12-07
+EMP-2654,Revathi Bajpai,Product Manager,Hyderabad,5,2,2410000,0.15,Below,2022-12-19
+EMP-2655,Dinesh Dubey,Staff Software Engineer,Gurugram,13,7,7150000,0.2,Meets,2020-07-04
+EMP-2656,Madhuri Kulkarni,Senior Product Manager,Mumbai,17,6,6670000,0.2,Meets,2017-02-11
+EMP-2657,Ravi Raval,Senior UX Designer,Mumbai,11,8,4260000,0.15,Meets,2023-05-28
+EMP-2658,Vishal Patel,UX Designer,Pune,17,6,1650000,0.1,Below,2024-11-04
+EMP-2659,Girish Venkatesh,UX Designer,Gurugram,5,2,2030000,0.1,Meets,2018-12-06
+EMP-2660,Sunita Murthy,Senior Software Engineer,Chennai,14,2,2650000,0.15,Below,2024-05-25
+EMP-2661,Saritha Venkatesh,Senior Data Scientist,Delhi NCR,14,6,7120000,0.18,Meets,2024-09-09
+EMP-2662,Vidya Ghosh,Staff Software Engineer,Gurugram,17,4,8140000,0.2,Exceeds,2017-02-24
+EMP-2663,Pranav Roy,Software Engineer,Mumbai,7,4,1410000,0.1,Meets,2019-05-20
+EMP-2664,Samir Dixit,Senior Data Scientist,Mumbai,18,8,7150000,0.18,Meets,2020-05-22
+EMP-2665,Hemant Bose,Senior UX Designer,Gurugram,2,1,4160000,0.15,Meets,2023-08-11
+EMP-2666,Nandini Saxena,UX Designer,Gurugram,11,3,1810000,0.1,Meets,2019-05-23
+EMP-2667,Saritha Thakkar,UX Designer,Gurugram,17,8,1990000,0.1,Meets,2019-09-02
+EMP-2668,Vandana Nair,UX Designer,Delhi NCR,13,5,2150000,0.1,Meets,2017-10-02
+EMP-2669,Harish Krishnan,Staff Software Engineer,Chennai,2,2,7060000,0.2,Meets,2023-06-12
+EMP-2670,Tejas Pillai,UX Designer,Chennai,9,5,1840000,0.1,Exceeds,2018-05-04
+EMP-2671,Murali Yadav,Senior Product Manager,Hyderabad,16,7,6260000,0.2,Exceeds,2023-05-01
+EMP-2672,Indira Krishnan,Senior UX Designer,Bengaluru,14,6,3550000,0.15,Below,2024-02-23
+EMP-2673,Shruthi Shukla,Principal Engineer,Chennai,12,3,13740000,0.25,Meets,2022-07-07
+EMP-2674,Suresh Shukla,Senior UX Designer,Mumbai,11,5,4320000,0.15,Meets,2023-04-20
+EMP-2675,Dinesh Tiwari,Senior Software Engineer,Mumbai,18,8,3440000,0.15,Meets,2022-02-21
+EMP-2676,Savitha Shetty,Product Manager,Delhi NCR,8,7,3000000,0.15,Meets,2024-11-25
+EMP-2677,Indira Tandon,Data Scientist,Hyderabad,18,3,2280000,0.12,Below,2020-11-27
+EMP-2678,Srikanth Pandey,Senior UX Designer,Delhi NCR,15,1,3740000,0.15,Below,2022-08-05
+EMP-2679,Sachin Reddy,Principal Engineer,Hyderabad,15,7,14090000,0.25,Meets,2020-07-09
+EMP-2680,Rohan Shah,Product Manager,Hyderabad,14,4,2740000,0.15,Meets,2020-01-08
+EMP-2681,Swati Malhotra,Product Manager,Gurugram,15,1,3210000,0.15,Meets,2021-03-01
+EMP-2682,Nandini Kumar,Product Manager,Delhi NCR,3,3,2810000,0.15,Meets,2017-02-11
+EMP-2683,Tarun Menon,Senior Data Scientist,Delhi NCR,15,6,6360000,0.18,Below,2023-12-27
+EMP-2684,Tarun Bhatt,Staff Software Engineer,Pune,5,5,7840000,0.2,Exceeds,2021-08-03
+EMP-2685,Dinesh Dubey,Principal Engineer,Mumbai,14,4,14840000,0.25,Meets,2019-02-06
+EMP-2686,Ramesh Basu,Principal Engineer,Delhi NCR,3,2,14260000,0.25,Meets,2018-06-18
+EMP-2687,Saritha Basu,UX Designer,Gurugram,6,3,2130000,0.1,Meets,2021-01-21
+EMP-2688,Neha Gowda,Senior Data Scientist,Bengaluru,3,3,6750000,0.18,Meets,2021-09-13
+EMP-2689,Kamala Patel,Product Manager,Chennai,9,8,2380000,0.15,Below,2023-05-10
+EMP-2690,Vidya Banerjee,Senior Software Engineer,Pune,7,4,3270000,0.15,Meets,2023-01-09
+EMP-2691,Riya Krishnan,Senior Software Engineer,Gurugram,12,7,3390000,0.15,Meets,2019-12-09
+EMP-2692,Archana Singh,Data Scientist,Mumbai,12,8,2920000,0.12,Meets,2017-11-21
+EMP-2693,Vidya Chandra,Staff Software Engineer,Gurugram,14,4,7190000,0.2,Meets,2022-10-03
+EMP-2694,Kunal Balakrishnan,Senior Software Engineer,Hyderabad,6,5,3580000,0.15,Exceeds,2022-08-16
+EMP-2695,Swati Pillai,Staff Software Engineer,Delhi NCR,12,5,8680000,0.2,Exceeds,2023-06-06
+EMP-2696,Rahul Thakkar,UX Designer,Noida,9,1,1610000,0.1,Below,2020-02-15
+EMP-2697,Kavya Kamath,Principal Engineer,Delhi NCR,14,7,14040000,0.25,Meets,2019-02-12
+EMP-2698,Sneha Srivastava,Staff Software Engineer,Mumbai,16,8,8840000,0.2,Exceeds,2020-04-28
+EMP-2699,Kavya Dubey,Product Manager,Delhi NCR,15,4,2920000,0.15,Meets,2021-12-22
+EMP-2700,Geeta Gowda,Principal Engineer,Noida,2,2,14880000,0.25,Exceeds,2024-04-12
+EMP-2701,Kunal Dubey,Senior Data Scientist,Gurugram,12,7,7350000,0.18,Exceeds,2023-12-14
+EMP-2702,Gaurav Bajpai,Senior Data Scientist,Delhi NCR,3,2,7530000,0.18,Exceeds,2022-10-22
+EMP-2703,Girish Basu,Senior Data Scientist,Bengaluru,14,5,7250000,0.18,Exceeds,2019-09-02
+EMP-2704,Aditya Menon,Senior Data Scientist,Hyderabad,12,8,6110000,0.18,Meets,2022-12-17
+EMP-2705,Manan Pai,UX Designer,Hyderabad,6,4,1740000,0.1,Meets,2022-07-10
+EMP-2706,Hema Mathur,Product Manager,Delhi NCR,7,3,2950000,0.15,Meets,2019-09-28
+EMP-2707,Saritha Kamath,Senior UX Designer,Bengaluru,7,1,4150000,0.15,Exceeds,2019-12-15
+EMP-2708,Smita Thakkar,UX Designer,Mumbai,3,2,1930000,0.1,Below,2024-08-16
+EMP-2709,Ritika Kapoor,Senior Software Engineer,Hyderabad,11,3,3240000,0.15,Exceeds,2021-10-22
+EMP-2710,Bhavna Iyer,Senior Data Scientist,Pune,18,3,6470000,0.18,Meets,2020-08-22
+EMP-2711,Jyoti Rao,Senior Software Engineer,Chennai,5,4,3450000,0.15,Exceeds,2022-03-01
+EMP-2712,Kavya Sharma,Senior Software Engineer,Gurugram,16,5,3540000,0.15,Meets,2022-01-21
+EMP-2713,Komal Joshi,Senior Data Scientist,Gurugram,6,2,6970000,0.18,Meets,2021-06-26
+EMP-2714,Varun Khanna,Software Engineer,Mumbai,4,4,1560000,0.1,Meets,2020-07-03
+EMP-2715,Sneha Shukla,Software Engineer,Pune,11,3,1520000,0.1,Exceeds,2024-07-24
+EMP-2716,Nandini Tripathi,Product Manager,Hyderabad,13,4,2500000,0.15,Meets,2023-08-09
+EMP-2717,Hemant Murthy,Senior Data Scientist,Noida,13,3,6370000,0.18,Exceeds,2018-01-17
+EMP-2718,Uma Bhatt,Senior Product Manager,Gurugram,6,4,6560000,0.2,Meets,2018-05-15
+EMP-2719,Kunal Shukla,UX Designer,Mumbai,6,2,1820000,0.1,Below,2020-09-14
+EMP-2720,Bala Murthy,Product Manager,Bengaluru,18,2,3110000,0.15,Meets,2023-02-15
+EMP-2721,Rohan Dixit,Senior Data Scientist,Delhi NCR,18,1,6860000,0.18,Meets,2019-03-27
+EMP-2722,Tejas Awasthi,UX Designer,Bengaluru,11,6,2260000,0.1,Exceeds,2024-10-26
+EMP-2723,Preeti Pillai,Product Manager,Chennai,7,2,2440000,0.15,Below,2021-11-04
+EMP-2724,Mohan Awasthi,UX Designer,Bengaluru,7,6,2000000,0.1,Exceeds,2023-11-24
+EMP-2725,Tanvi Shukla,Senior Data Scientist,Gurugram,13,7,7060000,0.18,Meets,2018-03-05
+EMP-2726,Mahesh Rastogi,Software Engineer,Pune,8,1,1340000,0.1,Exceeds,2019-11-08
+EMP-2727,Dinesh Kumar,UX Designer,Pune,6,4,2020000,0.1,Exceeds,2018-03-05
+EMP-2728,Usha Modi,Senior UX Designer,Gurugram,9,4,4400000,0.15,Meets,2023-01-11
+EMP-2729,Hema Raval,Software Engineer,Mumbai,15,8,1590000,0.1,Meets,2021-01-16
+EMP-2730,Parth Nair,UX Designer,Gurugram,17,4,2050000,0.1,Meets,2017-07-19
+EMP-2731,Krishnan Mitra,Senior Product Manager,Mumbai,17,2,6820000,0.2,Meets,2024-12-14
+EMP-2732,Sunita Choudhary,Software Engineer,Hyderabad,13,8,1270000,0.1,Meets,2020-10-22
+EMP-2733,Ritika Chakraborty,Senior Product Manager,Gurugram,14,7,6830000,0.2,Exceeds,2024-03-20
+EMP-2734,Vishal Pandey,Principal Engineer,Delhi NCR,17,3,13820000,0.25,Meets,2019-10-16
+EMP-2735,Vijaya Joshi,Senior Software Engineer,Noida,9,4,2680000,0.15,Below,2017-06-09
+EMP-2736,Kartik Reddy,Senior Product Manager,Hyderabad,18,1,6810000,0.2,Exceeds,2022-07-04
+EMP-2737,Neha Biswas,Senior Data Scientist,Pune,10,6,6300000,0.18,Exceeds,2017-09-09
+EMP-2738,Shubham Agarwal,Staff Software Engineer,Mumbai,16,8,8580000,0.2,Meets,2018-10-20
+EMP-2739,Rajan Malhotra,Senior Software Engineer,Bengaluru,5,2,3180000,0.15,Meets,2021-12-15
+EMP-2740,Isha Ghosh,Data Scientist,Gurugram,13,6,2560000,0.12,Meets,2018-04-15
+EMP-2741,Revathi Kapoor,UX Designer,Bengaluru,12,5,2240000,0.1,Exceeds,2018-05-12
+EMP-2742,Neha Naidu,UX Designer,Chennai,18,7,1660000,0.1,Meets,2019-07-14
+EMP-2743,Chandra Mukherjee,UX Designer,Gurugram,13,1,1760000,0.1,Below,2017-12-26
+EMP-2744,Kavitha Sundaram,Data Scientist,Mumbai,7,4,3070000,0.12,Exceeds,2017-11-21
+EMP-2745,Bhavna Venkatesh,Staff Software Engineer,Bengaluru,18,5,7160000,0.2,Below,2021-12-24
+EMP-2746,Jayesh Venkatesh,Senior Product Manager,Chennai,18,3,6010000,0.2,Exceeds,2024-11-07
+EMP-2747,Riya Shukla,Data Scientist,Gurugram,14,4,2940000,0.12,Meets,2018-01-18
+EMP-2748,Shanthi Kulkarni,Senior Product Manager,Noida,6,5,5820000,0.2,Meets,2020-02-17
+EMP-2749,Ananya Vyas,Data Scientist,Delhi NCR,7,1,2910000,0.12,Meets,2021-04-27
+EMP-2750,Geeta Choudhary,Product Manager,Noida,3,2,2170000,0.15,Below,2022-02-02
+EMP-2751,Gaurav Modi,Senior Software Engineer,Gurugram,16,6,3590000,0.15,Meets,2020-06-10
+EMP-2752,Vandana Tiwary,Product Manager,Hyderabad,9,2,2700000,0.15,Meets,2020-06-15
+EMP-2753,Kavitha Murthy,Senior Software Engineer,Hyderabad,4,1,3320000,0.15,Meets,2019-08-07
+EMP-2754,Manan Kamath,Senior UX Designer,Mumbai,18,7,4320000,0.15,Meets,2024-11-14
+EMP-2755,Revathi Das,Senior UX Designer,Gurugram,7,2,4070000,0.15,Meets,2024-12-15
+EMP-2756,Amit Thakkar,Staff Software Engineer,Mumbai,3,3,7920000,0.2,Meets,2022-02-20
+EMP-2757,Lakshmi Bose,UX Designer,Mumbai,3,3,2280000,0.1,Exceeds,2022-05-12
+EMP-2758,Bhavna Joshi,Product Manager,Delhi NCR,6,5,3130000,0.15,Meets,2021-05-07
+EMP-2759,Bhavna Rastogi,Staff Software Engineer,Gurugram,4,1,8540000,0.2,Exceeds,2021-10-15
+EMP-2760,Revathi Awasthi,Senior Product Manager,Noida,6,2,5800000,0.2,Meets,2024-11-15
+EMP-2761,Sunita Sundaram,Staff Software Engineer,Chennai,15,7,7630000,0.2,Exceeds,2022-09-02
+EMP-2762,Vijaya Bose,Senior UX Designer,Delhi NCR,2,2,4440000,0.15,Meets,2018-04-20
+EMP-2763,Sneha Trivedi,Data Scientist,Bengaluru,17,1,2420000,0.12,Below,2019-01-09
+EMP-2764,Kartik Trivedi,Principal Engineer,Pune,16,2,13960000,0.25,Meets,2022-07-19
+EMP-2765,Bhavna Singh,Software Engineer,Gurugram,15,3,1230000,0.1,Below,2022-07-09
+EMP-2766,Preeti Shetty,Senior Software Engineer,Mumbai,11,3,3210000,0.15,Below,2018-03-10
+EMP-2767,Parth Nair,UX Designer,Hyderabad,7,1,2130000,0.1,Exceeds,2021-07-04
+EMP-2768,Suresh Pandey,Senior Product Manager,Hyderabad,14,2,5650000,0.2,Meets,2020-10-19
+EMP-2769,Kavitha Banerjee,Principal Engineer,Gurugram,5,3,14780000,0.25,Meets,2024-09-14
+EMP-2770,Gopal Krishnan,Senior Software Engineer,Gurugram,2,2,3880000,0.15,Exceeds,2020-09-21
+EMP-2771,Neha Mukherjee,Staff Software Engineer,Delhi NCR,18,4,7680000,0.2,Meets,2022-09-06
+EMP-2772,Isha Dixit,Principal Engineer,Noida,3,1,11570000,0.25,Below,2021-11-06
+EMP-2773,Ashish Dubey,Software Engineer,Bengaluru,10,7,1290000,0.1,Below,2021-01-06
+EMP-2774,Rupal Thakkar,Data Scientist,Mumbai,5,2,2810000,0.12,Meets,2021-07-07
+EMP-2775,Manish Hegde,Senior Data Scientist,Chennai,10,8,5590000,0.18,Below,2022-06-07
+EMP-2776,Arjun Patel,Senior UX Designer,Chennai,2,2,4150000,0.15,Exceeds,2019-07-18
+EMP-2777,Tanya Sinha,Senior UX Designer,Noida,4,1,3790000,0.15,Meets,2018-06-27
+EMP-2778,Sunil Basu,UX Designer,Chennai,2,1,1840000,0.1,Meets,2020-08-01
+EMP-2779,Pooja Shukla,Principal Engineer,Bengaluru,13,4,14940000,0.25,Meets,2020-04-16
+EMP-2780,Swati Sundaram,Senior Product Manager,Bengaluru,8,1,6720000,0.2,Meets,2018-05-19
+EMP-2781,Tejas Das,Data Scientist,Gurugram,7,1,2890000,0.12,Exceeds,2018-03-09
+EMP-2782,Payal Kumar,Senior Data Scientist,Pune,10,4,5490000,0.18,Below,2021-11-18
+EMP-2783,Hemant Balakrishnan,Senior UX Designer,Bengaluru,3,2,3680000,0.15,Below,2021-02-22
+EMP-2784,Ravi Joshi,Data Scientist,Gurugram,3,3,2760000,0.12,Meets,2021-07-18
+EMP-2785,Hema Srivastava,Senior UX Designer,Chennai,4,1,3830000,0.15,Exceeds,2023-02-08
+EMP-2786,Mohan Saxena,Principal Engineer,Hyderabad,5,1,12430000,0.25,Meets,2017-10-26
+EMP-2787,Rohit Sen,Senior Product Manager,Delhi NCR,12,1,7100000,0.2,Exceeds,2020-02-25
+EMP-2788,Kavitha Gupta,Senior Data Scientist,Gurugram,5,1,6840000,0.18,Meets,2023-06-28
+EMP-2789,Shruthi Saxena,Senior Software Engineer,Hyderabad,3,2,3630000,0.15,Exceeds,2018-02-22
+EMP-2790,Pallavi Balakrishnan,Software Engineer,Bengaluru,5,5,1420000,0.1,Meets,2020-10-26
+EMP-2791,Padma Singh,Senior Data Scientist,Bengaluru,15,2,6520000,0.18,Meets,2024-09-11
+EMP-2792,Harsh Das,Senior Data Scientist,Pune,4,2,6080000,0.18,Exceeds,2021-06-14
+EMP-2793,Aditya Chandra,Senior UX Designer,Gurugram,3,1,4300000,0.15,Exceeds,2023-09-21
+EMP-2794,Saritha Chandra,Senior Product Manager,Delhi NCR,6,2,6510000,0.2,Meets,2022-05-12
+EMP-2795,Ashish Pandey,Software Engineer,Hyderabad,3,2,1490000,0.1,Exceeds,2020-11-07
+EMP-2796,Ayush Modi,Senior Software Engineer,Chennai,16,6,3340000,0.15,Exceeds,2022-10-10
+EMP-2797,Ravi Sharma,UX Designer,Chennai,3,2,1900000,0.1,Exceeds,2020-12-08
+EMP-2798,Mahesh Venkatesh,Senior UX Designer,Pune,12,7,4220000,0.15,Exceeds,2019-01-12
+EMP-2799,Chandra Mishra,Software Engineer,Mumbai,6,3,1550000,0.1,Meets,2022-01-01
+EMP-2800,Padma Raval,Principal Engineer,Pune,10,3,12520000,0.25,Meets,2020-03-07
+EMP-2801,Harish Agarwal,Software Engineer,Hyderabad,2,1,1440000,0.1,Meets,2022-04-10
+EMP-2802,Tanvi Saxena,Senior UX Designer,Pune,7,5,3610000,0.15,Meets,2018-02-05
+EMP-2803,Kavya Murthy,Staff Software Engineer,Pune,13,6,7410000,0.2,Exceeds,2020-01-25
+EMP-2804,Rekha Joshi,Senior Data Scientist,Pune,6,3,5170000,0.18,Below,2021-03-28
+EMP-2805,Suhana Yadav,Data Scientist,Gurugram,17,2,2840000,0.12,Exceeds,2023-11-25
+EMP-2806,Uma Rastogi,Data Scientist,Chennai,12,6,2420000,0.12,Meets,2024-08-09
+EMP-2807,Ravi Pandey,Senior Data Scientist,Noida,3,1,6140000,0.18,Meets,2024-04-13
+EMP-2808,Jyoti Shetty,Principal Engineer,Delhi NCR,7,7,14590000,0.25,Meets,2018-03-25
+EMP-2809,Bala Dey,Senior Software Engineer,Delhi NCR,3,2,3390000,0.15,Meets,2023-08-15
+EMP-2810,Ananya Khanna,UX Designer,Noida,10,7,1720000,0.1,Meets,2024-04-09
+EMP-2811,Neha Pai,Senior Software Engineer,Chennai,18,2,2630000,0.15,Below,2020-02-04
+EMP-2812,Varun Shukla,Senior Software Engineer,Chennai,8,6,3190000,0.15,Exceeds,2021-04-23
+EMP-2813,Shruti Shukla,Senior Data Scientist,Hyderabad,10,1,5630000,0.18,Below,2021-06-26
+EMP-2814,Akash Yadav,UX Designer,Noida,2,2,1800000,0.1,Meets,2019-07-08
+EMP-2815,Padma Pillai,Principal Engineer,Pune,16,8,13210000,0.25,Meets,2022-04-14
+EMP-2816,Nisha Das,UX Designer,Pune,2,2,1870000,0.1,Meets,2021-12-01
+EMP-2817,Vandana Kumar,Senior UX Designer,Chennai,14,5,3600000,0.15,Meets,2017-03-05
+EMP-2818,Ramesh Subramanian,Senior Product Manager,Noida,14,2,4770000,0.2,Below,2020-08-04
+EMP-2819,Rashmi Raval,Senior Product Manager,Gurugram,7,1,6180000,0.2,Meets,2019-01-27
+EMP-2820,Mahesh Naidu,Senior Data Scientist,Gurugram,14,5,7030000,0.18,Exceeds,2021-11-17
+EMP-2821,Komal Balakrishnan,Senior Software Engineer,Gurugram,7,3,3810000,0.15,Exceeds,2023-03-04
+EMP-2822,Manan Tiwari,Staff Software Engineer,Noida,8,3,6190000,0.2,Meets,2021-07-27
+EMP-2823,Radha Pandey,Senior UX Designer,Hyderabad,8,8,4060000,0.15,Meets,2017-03-15
+EMP-2824,Lalitha Dixit,Senior Software Engineer,Noida,12,8,2870000,0.15,Meets,2017-12-03
+EMP-2825,Shruthi Khanna,Product Manager,Gurugram,11,7,3130000,0.15,Meets,2023-04-06
+EMP-2826,Murali Krishnan,Senior Data Scientist,Noida,7,6,6260000,0.18,Meets,2023-12-02
+EMP-2827,Jayesh Dubey,Principal Engineer,Hyderabad,11,2,13770000,0.25,Meets,2024-07-25
+EMP-2828,Shruti Roy,Data Scientist,Mumbai,5,5,2400000,0.12,Below,2023-08-06
+EMP-2829,Harish Dey,Product Manager,Pune,4,4,2620000,0.15,Meets,2023-04-13
+EMP-2830,Tarun Dixit,Software Engineer,Bengaluru,6,3,1500000,0.1,Meets,2024-08-03
+EMP-2831,Shubham Malhotra,Senior Software Engineer,Pune,17,5,3040000,0.15,Meets,2019-01-20
+EMP-2832,Meera Patel,Senior Software Engineer,Hyderabad,14,3,3160000,0.15,Meets,2021-03-15
+EMP-2833,Jayesh Joshi,Senior Product Manager,Hyderabad,8,8,5960000,0.2,Exceeds,2018-07-23
+EMP-2834,Rekha Basu,Product Manager,Gurugram,14,4,3000000,0.15,Exceeds,2020-04-03
+EMP-2835,Ravi Krishnan,Software Engineer,Noida,8,2,1310000,0.1,Exceeds,2019-12-06
+EMP-2836,Abhishek Tiwari,Software Engineer,Noida,12,4,1360000,0.1,Meets,2023-07-04
+EMP-2837,Akash Banerjee,Principal Engineer,Pune,2,2,14130000,0.25,Exceeds,2017-07-07
+EMP-2838,Arun Dubey,Senior UX Designer,Pune,13,1,4280000,0.15,Exceeds,2023-05-25
+EMP-2839,Nikhil Roy,Senior Data Scientist,Gurugram,7,3,5630000,0.18,Below,2023-11-25
+EMP-2840,Arun Sen,Staff Software Engineer,Chennai,12,8,7790000,0.2,Exceeds,2017-10-19
+EMP-2841,Sunita Kumar,Senior UX Designer,Noida,18,1,3760000,0.15,Meets,2018-05-08
+EMP-2842,Usha Pandey,UX Designer,Pune,13,8,1620000,0.1,Meets,2019-07-07
+EMP-2843,Nisha Pai,Software Engineer,Pune,16,6,1190000,0.1,Below,2022-11-26
+EMP-2844,Payal Sen,Software Engineer,Noida,2,1,1240000,0.1,Meets,2022-04-07
+EMP-2845,Pranav Narayanan,Data Scientist,Bengaluru,9,4,2460000,0.12,Below,2022-03-15
+EMP-2846,Siddharth Mukherjee,Software Engineer,Mumbai,8,1,1290000,0.1,Below,2020-03-03
+EMP-2847,Suhana Pandey,Staff Software Engineer,Pune,16,5,7050000,0.2,Exceeds,2020-07-06
+EMP-2848,Komal Rastogi,Senior Data Scientist,Pune,8,5,6050000,0.18,Meets,2018-06-13
+EMP-2849,Isha Rastogi,UX Designer,Hyderabad,15,3,1770000,0.1,Meets,2017-07-14
+EMP-2850,Harish Dixit,Senior Software Engineer,Delhi NCR,7,3,3270000,0.15,Meets,2021-08-10
+EMP-2851,Lakshmi Mishra,UX Designer,Gurugram,17,4,2050000,0.1,Exceeds,2017-01-28
+EMP-2852,Kamala Mathur,Data Scientist,Chennai,14,6,2610000,0.12,Meets,2021-11-19
+EMP-2853,Murali Malhotra,Senior Software Engineer,Noida,5,4,2860000,0.15,Below,2020-07-09
+EMP-2854,Kamala Murthy,Senior Product Manager,Gurugram,3,3,6250000,0.2,Meets,2020-04-16
+EMP-2855,Pranav Awasthi,Software Engineer,Chennai,6,3,1340000,0.1,Meets,2019-05-08
+EMP-2856,Madhuri Pillai,Senior Data Scientist,Hyderabad,14,7,7030000,0.18,Exceeds,2020-07-06
+EMP-2857,Chirag Balakrishnan,UX Designer,Delhi NCR,14,5,1990000,0.1,Meets,2018-02-21
+EMP-2858,Jayesh Chandra,Senior Data Scientist,Chennai,8,7,5670000,0.18,Meets,2017-03-27
+EMP-2859,Akash Kulkarni,Senior UX Designer,Bengaluru,15,7,4670000,0.15,Exceeds,2023-03-06
+EMP-2860,Rohan Tripathi,Senior Product Manager,Hyderabad,7,5,5520000,0.2,Meets,2020-03-07
+EMP-2861,Vidya Rao,Software Engineer,Hyderabad,15,8,1270000,0.1,Meets,2019-02-10
+EMP-2862,Mohan Mathur,Senior Software Engineer,Noida,2,1,3090000,0.15,Exceeds,2018-01-02
+EMP-2863,Asha Tiwary,Product Manager,Bengaluru,3,1,3040000,0.15,Meets,2017-07-20
+EMP-2864,Padma Basu,Data Scientist,Delhi NCR,12,7,2470000,0.12,Below,2022-06-27
+EMP-2865,Manan Sen,Principal Engineer,Chennai,3,2,12750000,0.25,Meets,2018-01-15
+EMP-2866,Jayesh Hegde,UX Designer,Hyderabad,18,5,1860000,0.1,Exceeds,2022-08-20
+EMP-2867,Siddharth Chakraborty,Senior UX Designer,Noida,12,1,3290000,0.15,Meets,2017-12-11
+EMP-2868,Dinesh Bajpai,Senior UX Designer,Pune,4,3,3620000,0.15,Meets,2018-12-13
+EMP-2869,Aditya Tandon,Product Manager,Pune,18,1,2810000,0.15,Meets,2018-05-27
+EMP-2870,Bhavana Vyas,Data Scientist,Gurugram,5,4,3020000,0.12,Exceeds,2020-04-07
+EMP-2871,Vandana Subramanian,Staff Software Engineer,Mumbai,2,1,9500000,0.2,Exceeds,2021-04-24
+EMP-2872,Siddharth Mathur,Product Manager,Gurugram,6,5,2690000,0.15,Below,2018-12-11
+EMP-2873,Kartik Naidu,Principal Engineer,Mumbai,14,7,15010000,0.25,Meets,2020-05-04
+EMP-2874,Indira Basu,Product Manager,Mumbai,8,2,3300000,0.15,Exceeds,2019-06-13
+EMP-2875,Dinesh Banerjee,Senior Data Scientist,Bengaluru,8,7,6670000,0.18,Meets,2022-11-26
+EMP-2876,Rajesh Desai,Staff Software Engineer,Pune,16,6,6970000,0.2,Exceeds,2020-08-22
+EMP-2877,Sachin Chandra,Senior UX Designer,Hyderabad,3,3,3530000,0.15,Meets,2018-05-28
+EMP-2878,Kavitha Sen,Senior Data Scientist,Gurugram,11,7,6360000,0.18,Meets,2019-12-07
+EMP-2879,Naveen Malhotra,Principal Engineer,Bengaluru,17,7,13400000,0.25,Below,2017-09-13
+EMP-2880,Meera Bhatt,Senior Product Manager,Noida,14,7,6060000,0.2,Meets,2021-05-23
+EMP-2881,Naveen Awasthi,Principal Engineer,Noida,3,3,13820000,0.25,Exceeds,2019-10-05
+EMP-2882,Hema Patel,Senior UX Designer,Gurugram,8,4,3880000,0.15,Meets,2022-12-28
+EMP-2883,Dinesh Kapoor,Senior Data Scientist,Mumbai,6,4,7550000,0.18,Meets,2017-02-12
+EMP-2884,Tejas Saxena,Senior UX Designer,Hyderabad,18,6,3180000,0.15,Below,2019-11-24
+EMP-2885,Archana Khanna,UX Designer,Pune,17,5,1860000,0.1,Exceeds,2023-12-26
+EMP-2886,Jyoti Patel,Senior Software Engineer,Gurugram,10,8,3130000,0.15,Below,2018-02-03
+EMP-2887,Tejas Rastogi,Senior Software Engineer,Gurugram,9,1,3690000,0.15,Meets,2021-12-24
+EMP-2888,Indira Das,Senior Software Engineer,Hyderabad,15,5,3420000,0.15,Meets,2018-06-03
+EMP-2889,Arun Tiwary,Data Scientist,Hyderabad,14,8,2600000,0.12,Meets,2018-04-22
+EMP-2890,Tanvi Banerjee,Senior Software Engineer,Hyderabad,2,2,2880000,0.15,Below,2018-01-05
+EMP-2891,Karthik Bose,Senior Data Scientist,Pune,10,1,5540000,0.18,Meets,2021-06-18
+EMP-2892,Deepa Tiwary,Staff Software Engineer,Noida,9,5,6100000,0.2,Below,2021-11-18
+EMP-2893,Pranav Trivedi,Senior UX Designer,Hyderabad,18,6,3900000,0.15,Meets,2020-12-04
+EMP-2894,Pranav Raval,Software Engineer,Pune,8,3,1370000,0.1,Exceeds,2020-10-12
+EMP-2895,Harish Malhotra,Product Manager,Hyderabad,10,5,2660000,0.15,Meets,2023-08-03
+EMP-2896,Vidya Bhat,Product Manager,Noida,8,2,2180000,0.15,Below,2020-12-12
+EMP-2897,Ananya Hegde,Senior Data Scientist,Hyderabad,15,7,5730000,0.18,Meets,2018-05-04
+EMP-2898,Rajan Sen,Data Scientist,Mumbai,12,2,2820000,0.12,Meets,2021-03-28
+EMP-2899,Divya Bose,Principal Engineer,Delhi NCR,9,7,16130000,0.25,Exceeds,2019-09-24
+EMP-2900,Pranav Krishnan,Product Manager,Gurugram,11,5,3180000,0.15,Exceeds,2017-03-11
+EMP-2901,Tejas Das,UX Designer,Hyderabad,14,8,1870000,0.1,Meets,2021-01-22
+EMP-2902,Rupal Basu,Data Scientist,Hyderabad,10,1,2350000,0.12,Meets,2020-11-20
+EMP-2903,Radha Murthy,UX Designer,Gurugram,16,5,2340000,0.1,Exceeds,2020-05-21
+EMP-2904,Meera Gowda,Senior Software Engineer,Delhi NCR,4,1,3360000,0.15,Meets,2018-03-19
+EMP-2905,Dinesh Yadav,Software Engineer,Mumbai,17,1,1550000,0.1,Meets,2019-08-16
+EMP-2906,Jayesh Trivedi,Data Scientist,Mumbai,2,2,2920000,0.12,Meets,2022-04-24
+EMP-2907,Vishal Iyer,Data Scientist,Bengaluru,18,4,2920000,0.12,Meets,2022-03-17
+EMP-2908,Padma Hegde,Senior Product Manager,Bengaluru,13,2,6140000,0.2,Meets,2018-05-10
+EMP-2909,Anjali Yadav,Senior UX Designer,Delhi NCR,14,4,3810000,0.15,Meets,2017-08-20
+EMP-2910,Smita Rao,Senior UX Designer,Bengaluru,12,5,4140000,0.15,Meets,2017-06-24
+EMP-2911,Karthik Bhatt,Staff Software Engineer,Noida,17,4,6230000,0.2,Meets,2019-07-04
+EMP-2912,Girish Basu,Senior UX Designer,Bengaluru,9,8,4580000,0.15,Exceeds,2021-06-14
+EMP-2913,Nisha Biswas,Staff Software Engineer,Delhi NCR,16,3,8470000,0.2,Exceeds,2023-01-12
+EMP-2914,Mihir Sen,Principal Engineer,Mumbai,14,7,15690000,0.25,Exceeds,2017-03-22
+EMP-2915,Nandini Raval,Principal Engineer,Gurugram,5,4,14040000,0.25,Below,2024-11-23
+EMP-2916,Aditya Agarwal,Staff Software Engineer,Chennai,14,7,7110000,0.2,Meets,2018-01-05
+EMP-2917,Rashmi Dey,Staff Software Engineer,Chennai,9,1,7090000,0.2,Meets,2023-10-24
+EMP-2918,Rekha Shah,Software Engineer,Noida,4,4,1240000,0.1,Meets,2019-04-09
+EMP-2919,Saritha Rao,Senior Software Engineer,Delhi NCR,15,4,2990000,0.15,Below,2019-04-28
+EMP-2920,Sanjay Mukherjee,Senior Data Scientist,Hyderabad,3,2,6340000,0.18,Exceeds,2023-01-20
+EMP-2921,Jayesh Naidu,Principal Engineer,Mumbai,18,5,13450000,0.25,Below,2020-06-14
+EMP-2922,Manish Chakraborty,Senior UX Designer,Bengaluru,11,2,4160000,0.15,Meets,2021-06-23
+EMP-2923,Suresh Roy,UX Designer,Pune,3,1,1620000,0.1,Meets,2020-05-16
+EMP-2924,Vivek Shukla,Product Manager,Mumbai,17,6,2930000,0.15,Meets,2018-02-22
+EMP-2925,Gaurav Pai,Software Engineer,Hyderabad,13,6,1400000,0.1,Meets,2020-10-13
+EMP-2926,Tejas Mishra,Senior Software Engineer,Mumbai,5,1,4100000,0.15,Exceeds,2020-12-15
+EMP-2927,Yash Pandey,Senior Software Engineer,Mumbai,11,8,3240000,0.15,Below,2019-01-05
+EMP-2928,Venkat Bose,Principal Engineer,Noida,13,6,12320000,0.25,Meets,2023-02-16
+EMP-2929,Deepa Modi,UX Designer,Bengaluru,6,3,2050000,0.1,Exceeds,2017-12-07
+EMP-2930,Chandra Yadav,UX Designer,Gurugram,4,2,2100000,0.1,Meets,2023-09-25
+EMP-2931,Indira Dubey,UX Designer,Noida,2,1,1630000,0.1,Meets,2017-09-15
+EMP-2932,Suhana Srivastava,Data Scientist,Delhi NCR,10,2,2650000,0.12,Meets,2017-09-08
+EMP-2933,Manish Joshi,Product Manager,Bengaluru,10,3,3120000,0.15,Meets,2020-04-18
+EMP-2934,Karthik Raval,Senior Software Engineer,Bengaluru,13,6,3460000,0.15,Meets,2021-12-05
+EMP-2935,Ravi Pai,UX Designer,Delhi NCR,2,2,1830000,0.1,Meets,2019-05-01
+EMP-2936,Isha Sinha,Data Scientist,Mumbai,10,4,2960000,0.12,Meets,2020-06-09
+EMP-2937,Rajesh Rastogi,Principal Engineer,Noida,15,6,13610000,0.25,Exceeds,2018-08-06
+EMP-2938,Aparna Kulkarni,Senior UX Designer,Hyderabad,17,3,3550000,0.15,Meets,2017-05-06
+EMP-2939,Dinesh Hegde,Staff Software Engineer,Noida,6,1,6330000,0.2,Meets,2024-11-13
+EMP-2940,Kamala Kumar,Senior Software Engineer,Hyderabad,5,4,3310000,0.15,Meets,2018-01-25
+EMP-2941,Kavya Patel,Software Engineer,Hyderabad,6,6,1390000,0.1,Exceeds,2017-02-18
+EMP-2942,Anjali Sen,Senior Product Manager,Mumbai,16,3,7310000,0.2,Exceeds,2024-03-08
+EMP-2943,Shanthi Desai,Software Engineer,Delhi NCR,3,1,1390000,0.1,Meets,2018-09-27
+EMP-2944,Kamala Mukherjee,UX Designer,Hyderabad,9,7,1890000,0.1,Exceeds,2022-11-10
+EMP-2945,Suhana Agarwal,Principal Engineer,Noida,5,4,13370000,0.25,Meets,2020-02-10
+EMP-2946,Pranav Shah,Senior Product Manager,Mumbai,4,1,6200000,0.2,Meets,2019-07-17
+EMP-2947,Ashish Rao,Senior Product Manager,Hyderabad,11,5,5470000,0.2,Meets,2021-08-22
+EMP-2948,Komal Shah,Senior Product Manager,Delhi NCR,4,1,6700000,0.2,Meets,2019-06-05
+EMP-2949,Rohan Murthy,UX Designer,Gurugram,17,2,2070000,0.1,Meets,2021-03-03
+EMP-2950,Dinesh Rastogi,Senior Product Manager,Hyderabad,12,8,6320000,0.2,Exceeds,2023-10-26
+EMP-2951,Bhavna Raval,Senior Product Manager,Hyderabad,9,7,5990000,0.2,Meets,2024-09-18
+EMP-2952,Jayesh Menon,Senior UX Designer,Pune,15,4,3740000,0.15,Meets,2020-06-01
+EMP-2953,Kavitha Mitra,Principal Engineer,Bengaluru,6,1,14410000,0.25,Meets,2022-03-10
+EMP-2954,Mahesh Srivastava,Senior UX Designer,Hyderabad,15,4,3800000,0.15,Meets,2017-12-05
+EMP-2955,Suresh Rao,Senior Software Engineer,Hyderabad,15,6,2880000,0.15,Meets,2018-08-27
+EMP-2956,Meera Patel,Senior Data Scientist,Hyderabad,4,2,6590000,0.18,Exceeds,2023-03-25
+EMP-2957,Tushar Dey,Staff Software Engineer,Gurugram,11,8,8010000,0.2,Meets,2024-11-23
+EMP-2958,Pallavi Khanna,Software Engineer,Delhi NCR,3,3,1530000,0.1,Exceeds,2019-01-13
+EMP-2959,Madhuri Naidu,UX Designer,Gurugram,18,5,2080000,0.1,Meets,2023-03-09
+EMP-2960,Abhishek Nair,Senior Software Engineer,Noida,8,7,2540000,0.15,Below,2020-07-06
+EMP-2961,Rohit Narayanan,Data Scientist,Mumbai,12,7,2850000,0.12,Meets,2019-01-26
+EMP-2962,Pranav Sen,Senior Product Manager,Noida,4,3,5780000,0.2,Exceeds,2017-04-10
+EMP-2963,Gopal Pandey,Staff Software Engineer,Mumbai,11,4,8940000,0.2,Exceeds,2017-04-09
+EMP-2964,Sachin Menon,Senior Software Engineer,Bengaluru,3,1,3550000,0.15,Meets,2021-01-12
+EMP-2965,Aditya Krishnan,Product Manager,Noida,14,6,2490000,0.15,Meets,2022-07-24
+EMP-2966,Mohan Gupta,Data Scientist,Mumbai,2,2,3000000,0.12,Meets,2021-03-05
+EMP-2967,Kartik Mukherjee,Senior UX Designer,Mumbai,9,4,3610000,0.15,Below,2019-09-17
+EMP-2968,Abhishek Saxena,Senior Data Scientist,Chennai,11,6,5520000,0.18,Meets,2017-12-25
+EMP-2969,Murali Tandon,UX Designer,Pune,4,2,1970000,0.1,Exceeds,2018-01-05
+EMP-2970,Amit Reddy,Product Manager,Mumbai,7,3,3040000,0.15,Meets,2021-10-12
+EMP-2971,Saritha Shetty,Senior Product Manager,Mumbai,16,5,7580000,0.2,Exceeds,2024-11-05
+EMP-2972,Ayush Das,Senior Software Engineer,Gurugram,14,7,4020000,0.15,Exceeds,2024-06-17
+EMP-2973,Geeta Mehta,Senior Data Scientist,Chennai,18,8,6100000,0.18,Meets,2017-12-26
+EMP-2974,Murali Venkatesh,Principal Engineer,Bengaluru,14,3,14970000,0.25,Exceeds,2018-04-13
+EMP-2975,Karthik Verma,Senior UX Designer,Mumbai,16,2,4270000,0.15,Meets,2018-07-25
+EMP-2976,Asha Bajpai,UX Designer,Pune,12,8,1620000,0.1,Meets,2018-05-15
+EMP-2977,Murali Gupta,Software Engineer,Hyderabad,8,6,1140000,0.1,Below,2023-01-26
+EMP-2978,Yash Murthy,Senior Product Manager,Noida,8,1,4780000,0.2,Below,2021-05-21
+EMP-2979,Manan Tripathi,Staff Software Engineer,Mumbai,4,3,8490000,0.2,Exceeds,2023-09-07
+EMP-2980,Pallavi Shukla,Product Manager,Hyderabad,15,6,2500000,0.15,Meets,2019-04-12
+EMP-2981,Hemant Biswas,UX Designer,Gurugram,7,6,2030000,0.1,Meets,2023-01-18
+EMP-2982,Tarun Banerjee,Senior Data Scientist,Pune,6,3,6770000,0.18,Exceeds,2017-03-15
+EMP-2983,Srikanth Sharma,Staff Software Engineer,Gurugram,15,5,6470000,0.2,Below,2024-03-21
+EMP-2984,Jayesh Vyas,Senior UX Designer,Mumbai,8,7,4930000,0.15,Exceeds,2019-10-13
+EMP-2985,Isha Chakraborty,Principal Engineer,Chennai,2,2,13670000,0.25,Exceeds,2017-05-10
+EMP-2986,Tushar Biswas,Data Scientist,Mumbai,16,7,2940000,0.12,Meets,2022-09-14
+EMP-2987,Vishal Raval,Data Scientist,Chennai,15,6,2540000,0.12,Exceeds,2019-09-14
+EMP-2988,Jayesh Krishnan,UX Designer,Delhi NCR,15,5,2050000,0.1,Meets,2018-02-03
+EMP-2989,Revathi Gupta,Software Engineer,Noida,5,4,1480000,0.1,Exceeds,2021-07-07
+EMP-2990,Ashish Dixit,Principal Engineer,Gurugram,17,2,13760000,0.25,Meets,2023-11-23
+EMP-2991,Manish Kamath,UX Designer,Bengaluru,18,5,1790000,0.1,Below,2021-07-22
+EMP-2992,Lakshmi Basu,Principal Engineer,Bengaluru,2,1,12750000,0.25,Below,2022-06-06
+EMP-2993,Ritika Joshi,Senior Data Scientist,Noida,8,7,6930000,0.18,Exceeds,2023-03-21
+EMP-2994,Sunita Krishnan,UX Designer,Hyderabad,7,4,1740000,0.1,Meets,2019-09-04
+EMP-2995,Vandana Tiwari,Senior Data Scientist,Noida,10,3,5970000,0.18,Meets,2018-02-01
+EMP-2996,Indira Narayanan,UX Designer,Bengaluru,2,1,1960000,0.1,Meets,2017-12-24
+EMP-2997,Akash Srivastava,Staff Software Engineer,Gurugram,7,2,8050000,0.2,Meets,2021-04-18
+EMP-2998,Rajesh Kumar,Principal Engineer,Noida,10,2,13240000,0.25,Meets,2018-02-15
+EMP-2999,Meera Tandon,Senior Data Scientist,Mumbai,7,1,7410000,0.18,Exceeds,2022-04-13

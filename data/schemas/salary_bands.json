@@ -1,0 +1,10 @@
+[
+  {"name": "band_id",        "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "role_title",     "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "location_metro", "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "band_min",       "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "band_midpoint",  "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "band_max",       "type": "NUMERIC", "mode": "REQUIRED"},
+  {"name": "grade_level",    "type": "STRING",  "mode": "REQUIRED"},
+  {"name": "effective_year", "type": "INTEGER", "mode": "REQUIRED"}
+]
